@@ -13,7 +13,7 @@ from openai import OpenAI
 
 # config
 DEFAULT_BASE_URL = "https://aqueduct.ai.datalab.tuwien.ac.at/v1"
-FALLBACK_API_KEY = "<-api-key->"
+DEFAULT_API_KEY = os.environ.get("AQUEDUCT_API_KEY", "")
 MAX_REQUESTS_PER_MINUTE = 30
 
 SYSTEM_MESSAGE = (
@@ -518,7 +518,9 @@ def main():
                         help="Max requests per minute (0 = unlimited)")
     args = parser.parse_args()
 
-    api_key = args.api_key or os.environ.get("AQUEDUCT_API_KEY", FALLBACK_API_KEY)
+    api_key = args.api_key or DEFAULT_API_KEY
+    if not api_key:
+        parser.error("API key required: set AQUEDUCT_API_KEY env var or pass --api-key")
     client = OpenAI(api_key=api_key, base_url=args.base_url)
     rate_limiter = RateLimiter(args.max_rpm)
 

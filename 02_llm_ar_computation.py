@@ -27,7 +27,7 @@ def _trading_day_offset(trading_cal, event_date, offset):
 
 DEFAULT_MODELS = ["mistral-small-3.2-24b"]
 BASE_URL = "https://aqueduct.ai.datalab.tuwien.ac.at/v1"
-FALLBACK_API_KEY = "<-api-key->"
+DEFAULT_API_KEY = os.environ.get("AQUEDUCT_API_KEY", "")
 MAX_REQUESTS_PER_MINUTE = 30
 
 CHECKPOINT_FILE = "llm_ar_checkpoint.csv"
@@ -368,7 +368,10 @@ def main():
     include_formula = args.prompt_variant == "with_formula"
     max_rpm = args.max_rpm
 
-    api_key = os.environ.get("AQUEDUCT_API_KEY", FALLBACK_API_KEY)
+    api_key = DEFAULT_API_KEY
+    if not api_key:
+        print("Error: set AQUEDUCT_API_KEY env var", file=sys.stderr)
+        sys.exit(1)
     client = OpenAI(api_key=api_key, base_url=BASE_URL)
 
     print("Loading data...")

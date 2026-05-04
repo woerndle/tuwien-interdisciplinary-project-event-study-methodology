@@ -13,7 +13,7 @@ from openai import OpenAI
 
 # config
 DEFAULT_BASE_URL = "https://aqueduct.ai.datalab.tuwien.ac.at/v1"
-FALLBACK_API_KEY = "sk-vWDpDZ0mhRc-AZpRrZAJFUQrwh6OmKu3B-VV45QmPlk"
+FALLBACK_API_KEY = "<-api-key->"
 MAX_REQUESTS_PER_MINUTE = 30
 
 SYSTEM_MESSAGE = (

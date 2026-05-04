@@ -27,7 +27,7 @@ def _trading_day_offset(trading_cal, event_date, offset):
 
 DEFAULT_MODELS = ["mistral-small-3.2-24b"]
 BASE_URL = "https://aqueduct.ai.datalab.tuwien.ac.at/v1"
-FALLBACK_API_KEY = "sk-vWDpDZ0mhRc-AZpRrZAJFUQrwh6OmKu3B-VV45QmPlk"
+FALLBACK_API_KEY = "<-api-key->"
 MAX_REQUESTS_PER_MINUTE = 30
 
 CHECKPOINT_FILE = "llm_ar_checkpoint.csv"

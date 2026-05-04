@@ -1,0 +1,493 @@
+Filing Date,Ticker,Company Name,Trade Type,days_since_prev,days_until_next,overlap_0_1,overlap_0_5,overlap_0_10,overlap_0_20,overlap_m20_m1,overlap_m20_p20,company_date
+2024-11-19,AAPL,Apple Inc.,S - Sale,,29.0,False,False,False,False,False,False,AAPL_2024-11-19
+2024-12-18,AAPL,Apple Inc.,S - Sale,29.0,128.0,False,False,False,False,False,False,AAPL_2024-12-18
+2025-04-25,AAPL,Apple Inc.,S - Sale,128.0,19.0,False,False,False,True,False,True,AAPL_2025-04-25
+2025-05-14,AAPL,Apple Inc.,S - Sale,19.0,,False,False,False,False,True,True,AAPL_2025-05-14
+2025-02-04,AAPL,Apple Inc.,S - Sale+OE,,58.0,False,False,False,False,False,False,AAPL_2025-02-04
+2025-04-03,AAPL,Apple Inc.,S - Sale+OE,58.0,,False,False,False,False,False,False,AAPL_2025-04-03
+2025-01-30,ADBE,Adobe Inc.,P - Purchase,,50.0,False,False,False,False,False,False,ADBE_2025-01-30
+2025-03-21,ADBE,Adobe Inc.,P - Purchase,50.0,,False,False,False,False,False,False,ADBE_2025-03-21
+2024-12-10,ADBE,Adobe Inc.,S - Sale,,147.0,False,False,False,False,False,False,ADBE_2024-12-10
+2025-05-06,ADBE,Adobe Inc.,S - Sale,147.0,,False,False,False,False,False,False,ADBE_2025-05-06
+2025-01-28,ADBE,Adobe Inc.,S - Sale+OE,,,False,False,False,False,False,False,ADBE_2025-01-28
+2024-11-04,ADI,Analog Devices Inc,S - Sale,,122.0,False,False,False,False,False,False,ADI_2024-11-04
+2025-03-06,ADI,Analog Devices Inc,S - Sale,122.0,6.0,False,False,True,True,False,True,ADI_2025-03-06
+2025-03-12,ADI,Analog Devices Inc,S - Sale,6.0,1.0,True,True,True,True,True,True,ADI_2025-03-12
+2025-03-13,ADI,Analog Devices Inc,S - Sale,1.0,7.0,False,False,True,True,True,True,ADI_2025-03-13
+2025-03-20,ADI,Analog Devices Inc,S - Sale,7.0,6.0,False,False,True,True,True,True,ADI_2025-03-20
+2025-03-26,ADI,Analog Devices Inc,S - Sale,6.0,22.0,False,False,False,False,True,True,ADI_2025-03-26
+2025-04-17,ADI,Analog Devices Inc,S - Sale,22.0,21.0,False,False,False,False,False,False,ADI_2025-04-17
+2025-05-08,ADI,Analog Devices Inc,S - Sale,21.0,,False,False,False,False,False,False,ADI_2025-05-08
+2024-11-05,ADI,Analog Devices Inc,S - Sale+OE,,37.0,False,False,False,False,False,False,ADI_2024-11-05
+2024-12-12,ADI,Analog Devices Inc,S - Sale+OE,37.0,22.0,False,False,False,False,False,False,ADI_2024-12-12
+2025-01-03,ADI,Analog Devices Inc,S - Sale+OE,22.0,55.0,False,False,False,False,False,False,ADI_2025-01-03
+2025-02-27,ADI,Analog Devices Inc,S - Sale+OE,55.0,6.0,False,False,True,True,False,True,ADI_2025-02-27
+2025-03-05,ADI,Analog Devices Inc,S - Sale+OE,6.0,1.0,True,True,True,True,True,True,ADI_2025-03-05
+2025-03-06,ADI,Analog Devices Inc,S - Sale+OE,1.0,27.0,False,False,False,False,True,True,ADI_2025-03-06
+2025-04-02,ADI,Analog Devices Inc,S - Sale+OE,27.0,30.0,False,False,False,False,False,False,ADI_2025-04-02
+2025-05-02,ADI,Analog Devices Inc,S - Sale+OE,30.0,,False,False,False,False,False,False,ADI_2025-05-02
+2025-01-03,ADP,Automatic Data Processing Inc,S - Sale,,3.0,False,True,True,True,False,True,ADP_2025-01-03
+2025-01-06,ADP,Automatic Data Processing Inc,S - Sale,3.0,29.0,False,False,False,False,True,True,ADP_2025-01-06
+2025-02-04,ADP,Automatic Data Processing Inc,S - Sale,29.0,57.0,False,False,False,False,False,False,ADP_2025-02-04
+2025-04-02,ADP,Automatic Data Processing Inc,S - Sale,57.0,,False,False,False,False,False,False,ADP_2025-04-02
+2024-11-08,ADP,Automatic Data Processing Inc,S - Sale+OE,,59.0,False,False,False,False,False,False,ADP_2024-11-08
+2025-01-06,ADP,Automatic Data Processing Inc,S - Sale+OE,59.0,1.0,True,True,True,True,False,True,ADP_2025-01-06
+2025-01-07,ADP,Automatic Data Processing Inc,S - Sale+OE,1.0,1.0,True,True,True,True,True,True,ADP_2025-01-07
+2025-01-08,ADP,Automatic Data Processing Inc,S - Sale+OE,1.0,6.0,False,False,True,True,True,True,ADP_2025-01-08
+2025-01-14,ADP,Automatic Data Processing Inc,S - Sale+OE,6.0,1.0,True,True,True,True,True,True,ADP_2025-01-14
+2025-01-15,ADP,Automatic Data Processing Inc,S - Sale+OE,1.0,20.0,False,False,False,True,True,True,ADP_2025-01-15
+2025-02-04,ADP,Automatic Data Processing Inc,S - Sale+OE,20.0,8.0,False,False,True,True,True,True,ADP_2025-02-04
+2025-02-12,ADP,Automatic Data Processing Inc,S - Sale+OE,8.0,28.0,False,False,False,False,True,True,ADP_2025-02-12
+2025-03-12,ADP,Automatic Data Processing Inc,S - Sale+OE,28.0,33.0,False,False,False,False,False,False,ADP_2025-03-12
+2025-04-14,ADP,Automatic Data Processing Inc,S - Sale+OE,33.0,30.0,False,False,False,False,False,False,ADP_2025-04-14
+2025-05-14,ADP,Automatic Data Processing Inc,S - Sale+OE,30.0,,False,False,False,False,False,False,ADP_2025-05-14
+2025-04-07,AMAT,Applied Materials Inc /De,P - Purchase,,,False,False,False,False,False,False,AMAT_2025-04-07
+2025-02-25,AMAT,Applied Materials Inc /de,S - Sale,,37.0,False,False,False,False,False,False,AMAT_2025-02-25
+2025-04-03,AMAT,Applied Materials Inc /De,S - Sale,37.0,,False,False,False,False,False,False,AMAT_2025-04-03
+2024-11-05,AMZN,Amazon Com Inc,S - Sale,,1.0,True,True,True,True,False,True,AMZN_2024-11-05
+2024-11-06,AMZN,Amazon Com Inc,S - Sale,1.0,2.0,False,True,True,True,True,True,AMZN_2024-11-06
+2024-11-08,AMZN,Amazon Com Inc,S - Sale,2.0,4.0,False,True,True,True,True,True,AMZN_2024-11-08
+2024-11-12,AMZN,Amazon Com Inc,S - Sale,4.0,2.0,False,True,True,True,True,True,AMZN_2024-11-12
+2024-11-14,AMZN,Amazon Com Inc,S - Sale,2.0,11.0,False,False,False,True,True,True,AMZN_2024-11-14
+2024-11-25,AMZN,Amazon Com Inc,S - Sale,11.0,9.0,False,False,True,True,True,True,AMZN_2024-11-25
+2024-12-04,AMZN,Amazon Com Inc,S - Sale,9.0,2.0,False,True,True,True,True,True,AMZN_2024-12-04
+2024-12-06,AMZN,Amazon Com Inc,S - Sale,2.0,5.0,False,True,True,True,True,True,AMZN_2024-12-06
+2024-12-11,AMZN,Amazon Com Inc,S - Sale,5.0,65.0,False,False,False,False,True,True,AMZN_2024-12-11
+2025-02-14,AMZN,Amazon Com Inc,S - Sale,65.0,11.0,False,False,False,True,False,True,AMZN_2025-02-14
+2025-02-25,AMZN,Amazon Com Inc,S - Sale,11.0,8.0,False,False,True,True,True,True,AMZN_2025-02-25
+2025-03-05,AMZN,Amazon Com Inc,S - Sale,8.0,29.0,False,False,False,False,True,True,AMZN_2025-03-05
+2025-04-03,AMZN,Amazon Com Inc,S - Sale,29.0,32.0,False,False,False,False,False,False,AMZN_2025-04-03
+2025-05-05,AMZN,Amazon Com Inc,S - Sale,32.0,9.0,False,False,True,True,False,True,AMZN_2025-05-05
+2025-05-14,AMZN,Amazon Com Inc,S - Sale,9.0,,False,False,False,False,True,True,AMZN_2025-05-14
+2024-11-19,AMZN,Amazon Com Inc,S - Sale+OE,,6.0,False,False,True,True,False,True,AMZN_2024-11-19
+2024-11-25,AMZN,Amazon Com Inc,S - Sale+OE,6.0,86.0,False,False,False,False,True,True,AMZN_2024-11-25
+2025-02-19,AMZN,Amazon Com Inc,S - Sale+OE,86.0,6.0,False,False,True,True,False,True,AMZN_2025-02-19
+2025-02-25,AMZN,Amazon Com Inc,S - Sale+OE,6.0,83.0,False,False,False,False,True,True,AMZN_2025-02-25
+2025-05-19,AMZN,Amazon Com Inc,S - Sale+OE,83.0,4.0,False,True,True,True,False,True,AMZN_2025-05-19
+2025-05-23,AMZN,Amazon Com Inc,S - Sale+OE,4.0,,False,False,False,False,True,True,AMZN_2025-05-23
+2024-11-05,ANET,"Arista Networks, Inc.",S - Sale,,3.0,False,True,True,True,False,True,ANET_2024-11-05
+2024-11-08,ANET,"Arista Networks, Inc.",S - Sale,3.0,17.0,False,False,False,True,True,True,ANET_2024-11-08
+2024-11-25,ANET,"Arista Networks, Inc.",S - Sale,17.0,9.0,False,False,True,True,True,True,ANET_2024-11-25
+2024-12-04,ANET,"Arista Networks, Inc.",S - Sale,9.0,7.0,False,False,True,True,True,True,ANET_2024-12-04
+2024-12-11,ANET,"Arista Networks, Inc.",S - Sale,7.0,26.0,False,False,False,False,True,True,ANET_2024-12-11
+2025-01-06,ANET,"Arista Networks, Inc.",S - Sale,26.0,17.0,False,False,False,True,False,True,ANET_2025-01-06
+2025-01-23,ANET,"Arista Networks, Inc.",S - Sale,17.0,13.0,False,False,False,True,True,True,ANET_2025-01-23
+2025-02-05,ANET,"Arista Networks, Inc.",S - Sale,13.0,13.0,False,False,False,True,True,True,ANET_2025-02-05
+2025-02-18,ANET,"Arista Networks, Inc.",S - Sale,13.0,3.0,False,True,True,True,True,True,ANET_2025-02-18
+2025-02-21,ANET,"Arista Networks, Inc.",S - Sale,3.0,4.0,False,True,True,True,True,True,ANET_2025-02-21
+2025-02-25,ANET,"Arista Networks, Inc.",S - Sale,4.0,1.0,True,True,True,True,True,True,ANET_2025-02-25
+2025-02-26,ANET,"Arista Networks, Inc.",S - Sale,1.0,2.0,False,True,True,True,True,True,ANET_2025-02-26
+2025-02-28,ANET,"Arista Networks, Inc.",S - Sale,2.0,5.0,False,True,True,True,True,True,ANET_2025-02-28
+2025-03-05,ANET,"Arista Networks, Inc.",S - Sale,5.0,29.0,False,False,False,False,True,True,ANET_2025-03-05
+2025-04-03,ANET,"Arista Networks, Inc.",S - Sale,29.0,6.0,False,False,True,True,False,True,ANET_2025-04-03
+2025-04-09,ANET,"Arista Networks, Inc.",S - Sale,6.0,15.0,False,False,False,True,True,True,ANET_2025-04-09
+2025-04-24,ANET,"Arista Networks, Inc.",S - Sale,15.0,11.0,False,False,False,True,True,True,ANET_2025-04-24
+2025-05-05,ANET,"Arista Networks, Inc.",S - Sale,11.0,18.0,False,False,False,True,True,True,ANET_2025-05-05
+2025-05-23,ANET,"Arista Networks, Inc.",S - Sale,18.0,,False,False,False,False,True,True,ANET_2025-05-23
+2024-11-05,ANET,"Arista Networks, Inc.",S - Sale+OE,,1.0,True,True,True,True,False,True,ANET_2024-11-05
+2024-11-06,ANET,"Arista Networks, Inc.",S - Sale+OE,1.0,34.0,False,False,False,False,True,True,ANET_2024-11-06
+2024-12-10,ANET,"Arista Networks, Inc.",S - Sale+OE,34.0,29.0,False,False,False,False,False,False,ANET_2024-12-10
+2025-01-08,ANET,"Arista Networks, Inc.",S - Sale+OE,29.0,33.0,False,False,False,False,False,False,ANET_2025-01-08
+2025-02-10,ANET,"Arista Networks, Inc.",S - Sale+OE,33.0,28.0,False,False,False,False,False,False,ANET_2025-02-10
+2025-03-10,ANET,"Arista Networks, Inc.",S - Sale+OE,28.0,30.0,False,False,False,False,False,False,ANET_2025-03-10
+2025-04-09,ANET,"Arista Networks, Inc.",S - Sale+OE,30.0,29.0,False,False,False,False,False,False,ANET_2025-04-09
+2025-05-08,ANET,"Arista Networks, Inc.",S - Sale+OE,29.0,,False,False,False,False,False,False,ANET_2025-05-08
+2024-11-14,APP,Applovin Corp,S - Sale,,8.0,False,False,True,True,False,True,APP_2024-11-14
+2024-11-22,APP,Applovin Corp,S - Sale,8.0,4.0,False,True,True,True,True,True,APP_2024-11-22
+2024-11-26,APP,Applovin Corp,S - Sale,4.0,3.0,False,True,True,True,True,True,APP_2024-11-26
+2024-11-29,APP,Applovin Corp,S - Sale,3.0,3.0,False,True,True,True,True,True,APP_2024-11-29
+2024-12-02,APP,Applovin Corp,S - Sale,3.0,1.0,True,True,True,True,True,True,APP_2024-12-02
+2024-12-03,APP,Applovin Corp,S - Sale,1.0,2.0,False,True,True,True,True,True,APP_2024-12-03
+2024-12-05,APP,Applovin Corp,S - Sale,2.0,5.0,False,True,True,True,True,True,APP_2024-12-05
+2024-12-10,APP,Applovin Corp,S - Sale,5.0,1.0,True,True,True,True,True,True,APP_2024-12-10
+2024-12-11,APP,Applovin Corp,S - Sale,1.0,1.0,True,True,True,True,True,True,APP_2024-12-11
+2024-12-12,APP,Applovin Corp,S - Sale,1.0,11.0,False,False,False,True,True,True,APP_2024-12-12
+2024-12-23,APP,Applovin Corp,S - Sale,11.0,63.0,False,False,False,False,True,True,APP_2024-12-23
+2025-02-24,APP,Applovin Corp,S - Sale,63.0,16.0,False,False,False,True,False,True,APP_2025-02-24
+2025-03-12,APP,Applovin Corp,S - Sale,16.0,64.0,False,False,False,False,True,True,APP_2025-03-12
+2025-05-15,APP,Applovin Corp,S - Sale,64.0,6.0,False,False,True,True,False,True,APP_2025-05-15
+2025-05-21,APP,Applovin Corp,S - Sale,6.0,1.0,True,True,True,True,True,True,APP_2025-05-21
+2025-05-22,APP,Applovin Corp,S - Sale,1.0,6.0,False,False,True,True,True,True,APP_2025-05-22
+2025-05-28,APP,Applovin Corp,S - Sale,6.0,,False,False,False,False,True,True,APP_2025-05-28
+2024-11-22,APP,Applovin Corp,S - Sale+OE,,3.0,False,True,True,True,False,True,APP_2024-11-22
+2024-11-25,APP,Applovin Corp,S - Sale+OE,3.0,15.0,False,False,False,True,True,True,APP_2024-11-25
+2024-12-10,APP,Applovin Corp,S - Sale+OE,15.0,2.0,False,True,True,True,True,True,APP_2024-12-10
+2024-12-12,APP,Applovin Corp,S - Sale+OE,2.0,82.0,False,False,False,False,True,True,APP_2024-12-12
+2025-03-04,APP,Applovin Corp,S - Sale+OE,82.0,71.0,False,False,False,False,False,False,APP_2025-03-04
+2025-05-14,APP,Applovin Corp,S - Sale+OE,71.0,1.0,True,True,True,True,False,True,APP_2025-05-14
+2025-05-15,APP,Applovin Corp,S - Sale+OE,1.0,7.0,False,False,True,True,True,True,APP_2025-05-15
+2025-05-22,APP,Applovin Corp,S - Sale+OE,7.0,,False,False,False,False,True,True,APP_2025-05-22
+2024-12-19,AVGO,Broadcom Inc.,S - Sale,,7.0,False,False,True,True,False,True,AVGO_2024-12-19
+2024-12-26,AVGO,Broadcom Inc.,S - Sale,7.0,1.0,True,True,True,True,True,True,AVGO_2024-12-26
+2024-12-27,AVGO,Broadcom Inc.,S - Sale,1.0,10.0,False,False,True,True,True,True,AVGO_2024-12-27
+2025-01-06,AVGO,Broadcom Inc.,S - Sale,10.0,2.0,False,True,True,True,True,True,AVGO_2025-01-06
+2025-01-08,AVGO,Broadcom Inc.,S - Sale,2.0,2.0,False,True,True,True,True,True,AVGO_2025-01-08
+2025-01-10,AVGO,Broadcom Inc.,S - Sale,2.0,75.0,False,False,False,False,True,True,AVGO_2025-01-10
+2025-03-26,AVGO,Broadcom Inc.,S - Sale,75.0,2.0,False,True,True,True,False,True,AVGO_2025-03-26
+2025-03-28,AVGO,Broadcom Inc.,S - Sale,2.0,18.0,False,False,False,True,True,True,AVGO_2025-03-28
+2025-04-15,AVGO,Broadcom Inc.,S - Sale,18.0,1.0,True,True,True,True,True,True,AVGO_2025-04-15
+2025-04-16,AVGO,Broadcom Inc.,S - Sale,1.0,30.0,False,False,False,False,True,True,AVGO_2025-04-16
+2025-05-16,AVGO,Broadcom Inc.,S - Sale,30.0,,False,False,False,False,False,False,AVGO_2025-05-16
+2025-03-03,CRM,"Salesforce, Inc.",P - Purchase,,32.0,False,False,False,False,False,False,CRM_2025-03-03
+2025-04-04,CRM,"Salesforce, Inc.",P - Purchase,32.0,,False,False,False,False,False,False,CRM_2025-04-04
+2024-11-04,CRM,"Salesforce, Inc.",S - Sale,,22.0,False,False,False,False,False,False,CRM_2024-11-04
+2024-11-26,CRM,"Salesforce, Inc.",S - Sale,22.0,24.0,False,False,False,False,False,False,CRM_2024-11-26
+2024-12-20,CRM,"Salesforce, Inc.",S - Sale,24.0,6.0,False,False,True,True,False,True,CRM_2024-12-20
+2024-12-26,CRM,"Salesforce, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,CRM_2024-12-26
+2024-12-27,CRM,"Salesforce, Inc.",S - Sale,1.0,39.0,False,False,False,False,True,True,CRM_2024-12-27
+2025-02-04,CRM,"Salesforce, Inc.",S - Sale,39.0,22.0,False,False,False,False,False,False,CRM_2025-02-04
+2025-02-26,CRM,"Salesforce, Inc.",S - Sale,22.0,29.0,False,False,False,False,False,False,CRM_2025-02-26
+2025-03-27,CRM,"Salesforce, Inc.",S - Sale,29.0,21.0,False,False,False,False,False,False,CRM_2025-03-27
+2025-04-17,CRM,"Salesforce, Inc.",S - Sale,21.0,18.0,False,False,False,True,False,True,CRM_2025-04-17
+2025-05-05,CRM,"Salesforce, Inc.",S - Sale,18.0,23.0,False,False,False,False,True,True,CRM_2025-05-05
+2025-05-28,CRM,"Salesforce, Inc.",S - Sale,23.0,,False,False,False,False,False,False,CRM_2025-05-28
+2024-11-06,CRM,"Salesforce, Inc.",S - Sale+OE,,16.0,False,False,False,True,False,True,CRM_2024-11-06
+2024-11-22,CRM,"Salesforce, Inc.",S - Sale+OE,16.0,3.0,False,True,True,True,True,True,CRM_2024-11-22
+2024-11-25,CRM,"Salesforce, Inc.",S - Sale+OE,3.0,25.0,False,False,False,False,True,True,CRM_2024-11-25
+2024-12-20,CRM,"Salesforce, Inc.",S - Sale+OE,25.0,3.0,False,True,True,True,False,True,CRM_2024-12-20
+2024-12-23,CRM,"Salesforce, Inc.",S - Sale+OE,3.0,3.0,False,True,True,True,True,True,CRM_2024-12-23
+2024-12-26,CRM,"Salesforce, Inc.",S - Sale+OE,3.0,8.0,False,False,True,True,True,True,CRM_2024-12-26
+2025-01-03,CRM,"Salesforce, Inc.",S - Sale+OE,8.0,13.0,False,False,False,True,True,True,CRM_2025-01-03
+2025-01-16,CRM,"Salesforce, Inc.",S - Sale+OE,13.0,7.0,False,False,True,True,True,True,CRM_2025-01-16
+2025-01-23,CRM,"Salesforce, Inc.",S - Sale+OE,7.0,12.0,False,False,False,True,True,True,CRM_2025-01-23
+2025-02-04,CRM,"Salesforce, Inc.",S - Sale+OE,12.0,15.0,False,False,False,True,True,True,CRM_2025-02-04
+2025-02-19,CRM,"Salesforce, Inc.",S - Sale+OE,15.0,5.0,False,True,True,True,True,True,CRM_2025-02-19
+2025-02-24,CRM,"Salesforce, Inc.",S - Sale+OE,5.0,1.0,True,True,True,True,True,True,CRM_2025-02-24
+2025-02-25,CRM,"Salesforce, Inc.",S - Sale+OE,1.0,7.0,False,False,True,True,True,True,CRM_2025-02-25
+2025-03-04,CRM,"Salesforce, Inc.",S - Sale+OE,7.0,14.0,False,False,False,True,True,True,CRM_2025-03-04
+2025-03-18,CRM,"Salesforce, Inc.",S - Sale+OE,14.0,7.0,False,False,True,True,True,True,CRM_2025-03-18
+2025-03-25,CRM,"Salesforce, Inc.",S - Sale+OE,7.0,30.0,False,False,False,False,True,True,CRM_2025-03-25
+2025-04-24,CRM,"Salesforce, Inc.",S - Sale+OE,30.0,21.0,False,False,False,False,False,False,CRM_2025-04-24
+2025-05-15,CRM,"Salesforce, Inc.",S - Sale+OE,21.0,8.0,False,False,True,True,False,True,CRM_2025-05-15
+2025-05-23,CRM,"Salesforce, Inc.",S - Sale+OE,8.0,,False,False,False,False,True,True,CRM_2025-05-23
+2024-11-08,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,,7.0,False,False,True,True,False,True,CRWD_2024-11-08
+2024-11-15,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,7.0,19.0,False,False,False,True,True,True,CRWD_2024-11-15
+2024-12-04,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,19.0,12.0,False,False,False,True,True,True,CRWD_2024-12-04
+2024-12-16,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,12.0,10.0,False,False,True,True,True,True,CRWD_2024-12-16
+2024-12-26,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,10.0,8.0,False,False,True,True,True,True,CRWD_2024-12-26
+2025-01-03,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,8.0,13.0,False,False,False,True,True,True,CRWD_2025-01-03
+2025-01-16,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,13.0,21.0,False,False,False,False,True,True,CRWD_2025-01-16
+2025-02-06,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,21.0,5.0,False,True,True,True,False,True,CRWD_2025-02-06
+2025-02-11,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,5.0,7.0,False,False,True,True,True,True,CRWD_2025-02-11
+2025-02-18,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,7.0,1.0,True,True,True,True,True,True,CRWD_2025-02-18
+2025-02-19,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,1.0,13.0,False,False,False,True,True,True,CRWD_2025-02-19
+2025-03-04,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,13.0,13.0,False,False,False,True,True,True,CRWD_2025-03-04
+2025-03-17,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,13.0,8.0,False,False,True,True,True,True,CRWD_2025-03-17
+2025-03-25,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,8.0,8.0,False,False,True,True,True,True,CRWD_2025-03-25
+2025-04-02,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,8.0,6.0,False,False,True,True,True,True,CRWD_2025-04-02
+2025-04-08,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,6.0,8.0,False,False,True,True,True,True,CRWD_2025-04-08
+2025-04-16,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,8.0,6.0,False,False,True,True,True,True,CRWD_2025-04-16
+2025-04-22,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,6.0,6.0,False,False,True,True,True,True,CRWD_2025-04-22
+2025-04-28,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,6.0,4.0,False,True,True,True,True,True,CRWD_2025-04-28
+2025-05-02,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,4.0,4.0,False,True,True,True,True,True,CRWD_2025-05-02
+2025-05-06,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,4.0,22.0,False,False,False,False,True,True,CRWD_2025-05-06
+2025-05-28,CRWD,"Crowdstrike Holdings, Inc.",S - Sale,22.0,,False,False,False,False,False,False,CRWD_2025-05-28
+2024-12-02,CRWD,"Crowdstrike Holdings, Inc.",S - Sale+OE,,4.0,False,True,True,True,False,True,CRWD_2024-12-02
+2024-12-06,CRWD,"Crowdstrike Holdings, Inc.",S - Sale+OE,4.0,12.0,False,False,False,True,True,True,CRWD_2024-12-06
+2024-12-18,CRWD,"Crowdstrike Holdings, Inc.",S - Sale+OE,12.0,113.0,False,False,False,False,True,True,CRWD_2024-12-18
+2025-04-10,CRWD,"Crowdstrike Holdings, Inc.",S - Sale+OE,113.0,,False,False,False,False,False,False,CRWD_2025-04-10
+2024-11-19,CSCO,"Cisco Systems, Inc.",S - Sale,,2.0,False,True,True,True,False,True,CSCO_2024-11-19
+2024-11-21,CSCO,"Cisco Systems, Inc.",S - Sale,2.0,11.0,False,False,False,True,True,True,CSCO_2024-11-21
+2024-12-02,CSCO,"Cisco Systems, Inc.",S - Sale,11.0,4.0,False,True,True,True,True,True,CSCO_2024-12-02
+2024-12-06,CSCO,"Cisco Systems, Inc.",S - Sale,4.0,6.0,False,False,True,True,True,True,CSCO_2024-12-06
+2024-12-12,CSCO,"Cisco Systems, Inc.",S - Sale,6.0,68.0,False,False,False,False,True,True,CSCO_2024-12-12
+2025-02-18,CSCO,"Cisco Systems, Inc.",S - Sale,68.0,6.0,False,False,True,True,False,True,CSCO_2025-02-18
+2025-02-24,CSCO,"Cisco Systems, Inc.",S - Sale,6.0,3.0,False,True,True,True,True,True,CSCO_2025-02-24
+2025-02-27,CSCO,"Cisco Systems, Inc.",S - Sale,3.0,13.0,False,False,False,True,True,True,CSCO_2025-02-27
+2025-03-12,CSCO,"Cisco Systems, Inc.",S - Sale,13.0,69.0,False,False,False,False,True,True,CSCO_2025-03-12
+2025-05-20,CSCO,"Cisco Systems, Inc.",S - Sale,69.0,9.0,False,False,True,True,False,True,CSCO_2025-05-20
+2025-05-29,CSCO,"Cisco Systems, Inc.",S - Sale,9.0,,False,False,False,False,True,True,CSCO_2025-05-29
+2024-11-26,DELL,Dell Technologies Inc.,S - Sale,,8.0,False,False,True,True,False,True,DELL_2024-11-26
+2024-12-04,DELL,Dell Technologies Inc.,S - Sale,8.0,5.0,False,True,True,True,True,True,DELL_2024-12-04
+2024-12-09,DELL,Dell Technologies Inc.,S - Sale,5.0,2.0,False,True,True,True,True,True,DELL_2024-12-09
+2024-12-11,DELL,Dell Technologies Inc.,S - Sale,2.0,28.0,False,False,False,False,True,True,DELL_2024-12-11
+2025-01-08,DELL,Dell Technologies Inc.,S - Sale,28.0,83.0,False,False,False,False,False,False,DELL_2025-01-08
+2025-04-01,DELL,Dell Technologies Inc.,S - Sale,83.0,45.0,False,False,False,False,False,False,DELL_2025-04-01
+2025-05-16,DELL,Dell Technologies Inc.,S - Sale,45.0,,False,False,False,False,False,False,DELL_2025-05-16
+2024-11-19,DELL,Dell Technologies Inc.,S - Sale+OE,,20.0,False,False,False,True,False,True,DELL_2024-11-19
+2024-12-09,DELL,Dell Technologies Inc.,S - Sale+OE,20.0,8.0,False,False,True,True,True,True,DELL_2024-12-09
+2024-12-17,DELL,Dell Technologies Inc.,S - Sale+OE,8.0,22.0,False,False,False,False,True,True,DELL_2024-12-17
+2025-01-08,DELL,Dell Technologies Inc.,S - Sale+OE,22.0,16.0,False,False,False,True,False,True,DELL_2025-01-08
+2025-01-24,DELL,Dell Technologies Inc.,S - Sale+OE,16.0,27.0,False,False,False,False,True,True,DELL_2025-01-24
+2025-02-20,DELL,Dell Technologies Inc.,S - Sale+OE,27.0,,False,False,False,False,False,False,DELL_2025-02-20
+2024-11-06,EBAY,Ebay Inc,S - Sale,,21.0,False,False,False,False,False,False,EBAY_2024-11-06
+2024-11-27,EBAY,Ebay Inc,S - Sale,21.0,8.0,False,False,True,True,False,True,EBAY_2024-11-27
+2024-12-05,EBAY,Ebay Inc,S - Sale,8.0,32.0,False,False,False,False,True,True,EBAY_2024-12-05
+2025-01-06,EBAY,Ebay Inc,S - Sale,32.0,30.0,False,False,False,False,False,False,EBAY_2025-01-06
+2025-02-05,EBAY,Ebay Inc,S - Sale,30.0,28.0,False,False,False,False,False,False,EBAY_2025-02-05
+2025-03-05,EBAY,Ebay Inc,S - Sale,28.0,15.0,False,False,False,True,False,True,EBAY_2025-03-05
+2025-03-20,EBAY,Ebay Inc,S - Sale,15.0,14.0,False,False,False,True,True,True,EBAY_2025-03-20
+2025-04-03,EBAY,Ebay Inc,S - Sale,14.0,4.0,False,True,True,True,True,True,EBAY_2025-04-03
+2025-04-07,EBAY,Ebay Inc,S - Sale,4.0,29.0,False,False,False,False,True,True,EBAY_2025-04-07
+2025-05-06,EBAY,Ebay Inc,S - Sale,29.0,2.0,False,True,True,True,False,True,EBAY_2025-05-06
+2025-05-08,EBAY,Ebay Inc,S - Sale,2.0,14.0,False,False,False,True,True,True,EBAY_2025-05-08
+2025-05-22,EBAY,Ebay Inc,S - Sale,14.0,,False,False,False,False,True,True,EBAY_2025-05-22
+2024-11-19,EBAY,Ebay Inc,S - Sale+OE,,28.0,False,False,False,False,False,False,EBAY_2024-11-19
+2024-12-17,EBAY,Ebay Inc,S - Sale+OE,28.0,31.0,False,False,False,False,False,False,EBAY_2024-12-17
+2025-01-17,EBAY,Ebay Inc,S - Sale+OE,31.0,33.0,False,False,False,False,False,False,EBAY_2025-01-17
+2025-02-19,EBAY,Ebay Inc,S - Sale+OE,33.0,27.0,False,False,False,False,False,False,EBAY_2025-02-19
+2025-03-18,EBAY,Ebay Inc,S - Sale+OE,27.0,30.0,False,False,False,False,False,False,EBAY_2025-03-18
+2025-04-17,EBAY,Ebay Inc,S - Sale+OE,30.0,18.0,False,False,False,True,False,True,EBAY_2025-04-17
+2025-05-05,EBAY,Ebay Inc,S - Sale+OE,18.0,8.0,False,False,True,True,True,True,EBAY_2025-05-05
+2025-05-13,EBAY,Ebay Inc,S - Sale+OE,8.0,10.0,False,False,True,True,True,True,EBAY_2025-05-13
+2025-05-23,EBAY,Ebay Inc,S - Sale+OE,10.0,,False,False,False,False,True,True,EBAY_2025-05-23
+2024-11-01,GOOGL,Alphabet Inc.,S - Sale,,3.0,False,True,True,True,False,True,GOOGL_2024-11-01
+2024-11-04,GOOGL,Alphabet Inc.,S - Sale,3.0,2.0,False,True,True,True,True,True,GOOGL_2024-11-04
+2024-11-06,GOOGL,Alphabet Inc.,S - Sale,2.0,1.0,True,True,True,True,True,True,GOOGL_2024-11-06
+2024-11-07,GOOGL,Alphabet Inc.,S - Sale,1.0,5.0,False,True,True,True,True,True,GOOGL_2024-11-07
+2024-11-12,GOOGL,Alphabet Inc.,S - Sale,5.0,6.0,False,False,True,True,True,True,GOOGL_2024-11-12
+2024-11-18,GOOGL,Alphabet Inc.,S - Sale,6.0,3.0,False,True,True,True,True,True,GOOGL_2024-11-18
+2024-11-21,GOOGL,Alphabet Inc.,S - Sale,3.0,11.0,False,False,False,True,True,True,GOOGL_2024-11-21
+2024-12-02,GOOGL,Alphabet Inc.,S - Sale,11.0,8.0,False,False,True,True,True,True,GOOGL_2024-12-02
+2024-12-10,GOOGL,Alphabet Inc.,S - Sale,8.0,3.0,False,True,True,True,True,True,GOOGL_2024-12-10
+2024-12-13,GOOGL,Alphabet Inc.,S - Sale,3.0,4.0,False,True,True,True,True,True,GOOGL_2024-12-13
+2024-12-17,GOOGL,Alphabet Inc.,S - Sale,4.0,16.0,False,False,False,True,True,True,GOOGL_2024-12-17
+2025-01-02,GOOGL,Alphabet Inc.,S - Sale,16.0,1.0,True,True,True,True,True,True,GOOGL_2025-01-02
+2025-01-03,GOOGL,Alphabet Inc.,S - Sale,1.0,10.0,False,False,True,True,True,True,GOOGL_2025-01-03
+2025-01-13,GOOGL,Alphabet Inc.,S - Sale,10.0,2.0,False,True,True,True,True,True,GOOGL_2025-01-13
+2025-01-15,GOOGL,Alphabet Inc.,S - Sale,2.0,15.0,False,False,False,True,True,True,GOOGL_2025-01-15
+2025-01-30,GOOGL,Alphabet Inc.,S - Sale,15.0,1.0,True,True,True,True,True,True,GOOGL_2025-01-30
+2025-01-31,GOOGL,Alphabet Inc.,S - Sale,1.0,3.0,False,True,True,True,True,True,GOOGL_2025-01-31
+2025-02-03,GOOGL,Alphabet Inc.,S - Sale,3.0,16.0,False,False,False,True,True,True,GOOGL_2025-02-03
+2025-02-19,GOOGL,Alphabet Inc.,S - Sale,16.0,1.0,True,True,True,True,True,True,GOOGL_2025-02-19
+2025-02-20,GOOGL,Alphabet Inc.,S - Sale,1.0,1.0,True,True,True,True,True,True,GOOGL_2025-02-20
+2025-02-21,GOOGL,Alphabet Inc.,S - Sale,1.0,7.0,False,False,True,True,True,True,GOOGL_2025-02-21
+2025-02-28,GOOGL,Alphabet Inc.,S - Sale,7.0,3.0,False,True,True,True,True,True,GOOGL_2025-02-28
+2025-03-03,GOOGL,Alphabet Inc.,S - Sale,3.0,10.0,False,False,True,True,True,True,GOOGL_2025-03-03
+2025-03-13,GOOGL,Alphabet Inc.,S - Sale,10.0,14.0,False,False,False,True,True,True,GOOGL_2025-03-13
+2025-03-27,GOOGL,Alphabet Inc.,S - Sale,14.0,4.0,False,True,True,True,True,True,GOOGL_2025-03-27
+2025-03-31,GOOGL,Alphabet Inc.,S - Sale,4.0,1.0,True,True,True,True,True,True,GOOGL_2025-03-31
+2025-04-01,GOOGL,Alphabet Inc.,S - Sale,1.0,3.0,False,True,True,True,True,True,GOOGL_2025-04-01
+2025-04-04,GOOGL,Alphabet Inc.,S - Sale,3.0,10.0,False,False,True,True,True,True,GOOGL_2025-04-04
+2025-04-14,GOOGL,Alphabet Inc.,S - Sale,10.0,4.0,False,True,True,True,True,True,GOOGL_2025-04-14
+2025-04-18,GOOGL,Alphabet Inc.,S - Sale,4.0,13.0,False,False,False,True,True,True,GOOGL_2025-04-18
+2025-05-01,GOOGL,Alphabet Inc.,S - Sale,13.0,8.0,False,False,True,True,True,True,GOOGL_2025-05-01
+2025-05-09,GOOGL,Alphabet Inc.,S - Sale,8.0,6.0,False,False,True,True,True,True,GOOGL_2025-05-09
+2025-05-15,GOOGL,Alphabet Inc.,S - Sale,6.0,8.0,False,False,True,True,True,True,GOOGL_2025-05-15
+2025-05-23,GOOGL,Alphabet Inc.,S - Sale,8.0,,False,False,False,False,True,True,GOOGL_2025-05-23
+2024-11-13,IBM,International Business Machines Corp,P - Purchase,,107.0,False,False,False,False,False,False,IBM_2024-11-13
+2025-02-28,IBM,International Business Machines Corp,P - Purchase,107.0,,False,False,False,False,False,False,IBM_2025-02-28
+2024-11-08,IBM,International Business Machines Corp,S - Sale,,115.0,False,False,False,False,False,False,IBM_2024-11-08
+2025-03-03,IBM,International Business Machines Corp,S - Sale,115.0,,False,False,False,False,False,False,IBM_2025-03-03
+2024-11-06,INTC,Intel Corp,P - Purchase,,,False,False,False,False,False,False,INTC_2024-11-06
+2024-11-08,INTC,Intel Corp,S - Sale,,,False,False,False,False,False,False,INTC_2024-11-08
+2024-11-04,LRCX,Lam Research Corp,S - Sale,,,False,False,False,False,False,False,LRCX_2024-11-04
+2025-02-21,LRCX,Lam Research Corp,S - Sale+OE,,,False,False,False,False,False,False,LRCX_2025-02-21
+2024-11-05,META,"Meta Platforms, Inc.",S - Sale,,2.0,False,True,True,True,False,True,META_2024-11-05
+2024-11-07,META,"Meta Platforms, Inc.",S - Sale,2.0,14.0,False,False,False,True,True,True,META_2024-11-07
+2024-11-21,META,"Meta Platforms, Inc.",S - Sale,14.0,5.0,False,True,True,True,True,True,META_2024-11-21
+2024-11-26,META,"Meta Platforms, Inc.",S - Sale,5.0,1.0,True,True,True,True,True,True,META_2024-11-26
+2024-11-27,META,"Meta Platforms, Inc.",S - Sale,1.0,7.0,False,False,True,True,True,True,META_2024-11-27
+2024-12-04,META,"Meta Platforms, Inc.",S - Sale,7.0,1.0,True,True,True,True,True,True,META_2024-12-04
+2024-12-05,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2024-12-05
+2024-12-11,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2024-12-11
+2024-12-12,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2024-12-12
+2024-12-18,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2024-12-18
+2024-12-19,META,"Meta Platforms, Inc.",S - Sale,1.0,7.0,False,False,True,True,True,True,META_2024-12-19
+2024-12-26,META,"Meta Platforms, Inc.",S - Sale,7.0,7.0,False,False,True,True,True,True,META_2024-12-26
+2025-01-02,META,"Meta Platforms, Inc.",S - Sale,7.0,6.0,False,False,True,True,True,True,META_2025-01-02
+2025-01-08,META,"Meta Platforms, Inc.",S - Sale,6.0,2.0,False,True,True,True,True,True,META_2025-01-08
+2025-01-10,META,"Meta Platforms, Inc.",S - Sale,2.0,5.0,False,True,True,True,True,True,META_2025-01-10
+2025-01-15,META,"Meta Platforms, Inc.",S - Sale,5.0,1.0,True,True,True,True,True,True,META_2025-01-15
+2025-01-16,META,"Meta Platforms, Inc.",S - Sale,1.0,7.0,False,False,True,True,True,True,META_2025-01-16
+2025-01-23,META,"Meta Platforms, Inc.",S - Sale,7.0,6.0,False,False,True,True,True,True,META_2025-01-23
+2025-01-29,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-01-29
+2025-01-30,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-01-30
+2025-02-05,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-02-05
+2025-02-06,META,"Meta Platforms, Inc.",S - Sale,1.0,7.0,False,False,True,True,True,True,META_2025-02-06
+2025-02-13,META,"Meta Platforms, Inc.",S - Sale,7.0,13.0,False,False,False,True,True,True,META_2025-02-13
+2025-02-26,META,"Meta Platforms, Inc.",S - Sale,13.0,1.0,True,True,True,True,True,True,META_2025-02-26
+2025-02-27,META,"Meta Platforms, Inc.",S - Sale,1.0,1.0,True,True,True,True,True,True,META_2025-02-27
+2025-02-28,META,"Meta Platforms, Inc.",S - Sale,1.0,3.0,False,True,True,True,True,True,META_2025-02-28
+2025-03-03,META,"Meta Platforms, Inc.",S - Sale,3.0,1.0,True,True,True,True,True,True,META_2025-03-03
+2025-03-04,META,"Meta Platforms, Inc.",S - Sale,1.0,1.0,True,True,True,True,True,True,META_2025-03-04
+2025-03-05,META,"Meta Platforms, Inc.",S - Sale,1.0,1.0,True,True,True,True,True,True,META_2025-03-05
+2025-03-06,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-03-06
+2025-03-12,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-03-12
+2025-03-13,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-03-13
+2025-03-19,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-03-19
+2025-03-20,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-03-20
+2025-03-26,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-03-26
+2025-03-27,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-03-27
+2025-04-02,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-04-02
+2025-04-03,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-04-03
+2025-04-09,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-04-09
+2025-04-10,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-04-10
+2025-04-16,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-04-16
+2025-04-17,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-04-17
+2025-04-23,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-04-23
+2025-04-24,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-04-24
+2025-04-30,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-04-30
+2025-05-01,META,"Meta Platforms, Inc.",S - Sale,1.0,5.0,False,True,True,True,True,True,META_2025-05-01
+2025-05-06,META,"Meta Platforms, Inc.",S - Sale,5.0,1.0,True,True,True,True,True,True,META_2025-05-06
+2025-05-07,META,"Meta Platforms, Inc.",S - Sale,1.0,1.0,True,True,True,True,True,True,META_2025-05-07
+2025-05-08,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-05-08
+2025-05-14,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-05-14
+2025-05-15,META,"Meta Platforms, Inc.",S - Sale,1.0,6.0,False,False,True,True,True,True,META_2025-05-15
+2025-05-21,META,"Meta Platforms, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,META_2025-05-21
+2025-05-22,META,"Meta Platforms, Inc.",S - Sale,1.0,7.0,False,False,True,True,True,True,META_2025-05-22
+2025-05-29,META,"Meta Platforms, Inc.",S - Sale,7.0,,False,False,False,False,True,True,META_2025-05-29
+2024-11-01,META,"Meta Platforms, Inc.",S - Sale+OE,,18.0,False,False,False,True,False,True,META_2024-11-01
+2024-11-19,META,"Meta Platforms, Inc.",S - Sale+OE,18.0,15.0,False,False,False,True,True,True,META_2024-11-19
+2024-12-04,META,"Meta Platforms, Inc.",S - Sale+OE,15.0,5.0,False,True,True,True,True,True,META_2024-12-04
+2024-12-09,META,"Meta Platforms, Inc.",S - Sale+OE,5.0,2.0,False,True,True,True,True,True,META_2024-12-09
+2024-12-11,META,"Meta Platforms, Inc.",S - Sale+OE,2.0,5.0,False,True,True,True,True,True,META_2024-12-11
+2024-12-16,META,"Meta Platforms, Inc.",S - Sale+OE,5.0,2.0,False,True,True,True,True,True,META_2024-12-16
+2024-12-18,META,"Meta Platforms, Inc.",S - Sale+OE,2.0,5.0,False,True,True,True,True,True,META_2024-12-18
+2024-12-23,META,"Meta Platforms, Inc.",S - Sale+OE,5.0,3.0,False,True,True,True,True,True,META_2024-12-23
+2024-12-26,META,"Meta Platforms, Inc.",S - Sale+OE,3.0,4.0,False,True,True,True,True,True,META_2024-12-26
+2024-12-30,META,"Meta Platforms, Inc.",S - Sale+OE,4.0,7.0,False,False,True,True,True,True,META_2024-12-30
+2025-01-06,META,"Meta Platforms, Inc.",S - Sale+OE,7.0,2.0,False,True,True,True,True,True,META_2025-01-06
+2025-01-08,META,"Meta Platforms, Inc.",S - Sale+OE,2.0,5.0,False,True,True,True,True,True,META_2025-01-08
+2025-01-13,META,"Meta Platforms, Inc.",S - Sale+OE,5.0,2.0,False,True,True,True,True,True,META_2025-01-13
+2025-01-15,META,"Meta Platforms, Inc.",S - Sale+OE,2.0,6.0,False,False,True,True,True,True,META_2025-01-15
+2025-01-21,META,"Meta Platforms, Inc.",S - Sale+OE,6.0,1.0,True,True,True,True,True,True,META_2025-01-21
+2025-01-22,META,"Meta Platforms, Inc.",S - Sale+OE,1.0,5.0,False,True,True,True,True,True,META_2025-01-22
+2025-01-27,META,"Meta Platforms, Inc.",S - Sale+OE,5.0,2.0,False,True,True,True,True,True,META_2025-01-27
+2025-01-29,META,"Meta Platforms, Inc.",S - Sale+OE,2.0,5.0,False,True,True,True,True,True,META_2025-01-29
+2025-02-03,META,"Meta Platforms, Inc.",S - Sale+OE,5.0,2.0,False,True,True,True,True,True,META_2025-02-03
+2025-02-05,META,"Meta Platforms, Inc.",S - Sale+OE,2.0,5.0,False,True,True,True,True,True,META_2025-02-05
+2025-02-10,META,"Meta Platforms, Inc.",S - Sale+OE,5.0,2.0,False,True,True,True,True,True,META_2025-02-10
+2025-02-12,META,"Meta Platforms, Inc.",S - Sale+OE,2.0,6.0,False,False,True,True,True,True,META_2025-02-12
+2025-02-18,META,"Meta Platforms, Inc.",S - Sale+OE,6.0,1.0,True,True,True,True,True,True,META_2025-02-18
+2025-02-19,META,"Meta Platforms, Inc.",S - Sale+OE,1.0,5.0,False,True,True,True,True,True,META_2025-02-19
+2025-02-24,META,"Meta Platforms, Inc.",S - Sale+OE,5.0,84.0,False,False,False,False,True,True,META_2025-02-24
+2025-05-19,META,"Meta Platforms, Inc.",S - Sale+OE,84.0,,False,False,False,False,False,False,META_2025-05-19
+2024-11-12,MSFT,Microsoft Corp,S - Sale,,13.0,False,False,False,True,False,True,MSFT_2024-11-12
+2024-11-25,MSFT,Microsoft Corp,S - Sale,13.0,7.0,False,False,True,True,True,True,MSFT_2024-11-25
+2024-12-02,MSFT,Microsoft Corp,S - Sale,7.0,3.0,False,True,True,True,True,True,MSFT_2024-12-02
+2024-12-05,MSFT,Microsoft Corp,S - Sale,3.0,5.0,False,True,True,True,True,True,MSFT_2024-12-05
+2024-12-10,MSFT,Microsoft Corp,S - Sale,5.0,147.0,False,False,False,False,True,True,MSFT_2024-12-10
+2025-05-06,MSFT,Microsoft Corp,S - Sale,147.0,10.0,False,False,True,True,False,True,MSFT_2025-05-06
+2025-05-16,MSFT,Microsoft Corp,S - Sale,10.0,4.0,False,True,True,True,True,True,MSFT_2025-05-16
+2025-05-20,MSFT,Microsoft Corp,S - Sale,4.0,2.0,False,True,True,True,True,True,MSFT_2025-05-20
+2025-05-22,MSFT,Microsoft Corp,S - Sale,2.0,,False,False,False,False,True,True,MSFT_2025-05-22
+2024-12-26,MU,Micron Technology Inc,S - Sale,,15.0,False,False,False,True,False,True,MU_2024-12-26
+2025-01-10,MU,Micron Technology Inc,S - Sale,15.0,40.0,False,False,False,False,True,True,MU_2025-01-10
+2025-02-19,MU,Micron Technology Inc,S - Sale,40.0,14.0,False,False,False,True,False,True,MU_2025-02-19
+2025-03-05,MU,Micron Technology Inc,S - Sale,14.0,13.0,False,False,False,True,True,True,MU_2025-03-05
+2025-03-18,MU,Micron Technology Inc,S - Sale,13.0,9.0,False,False,True,True,True,True,MU_2025-03-18
+2025-03-27,MU,Micron Technology Inc,S - Sale,9.0,40.0,False,False,False,False,True,True,MU_2025-03-27
+2025-05-06,MU,Micron Technology Inc,S - Sale,40.0,,False,False,False,False,False,False,MU_2025-05-06
+2024-11-06,NOW,"Servicenow, Inc.",S - Sale,,6.0,False,False,True,True,False,True,NOW_2024-11-06
+2024-11-12,NOW,"Servicenow, Inc.",S - Sale,6.0,6.0,False,False,True,True,True,True,NOW_2024-11-12
+2024-11-18,NOW,"Servicenow, Inc.",S - Sale,6.0,3.0,False,True,True,True,True,True,NOW_2024-11-18
+2024-11-21,NOW,"Servicenow, Inc.",S - Sale,3.0,6.0,False,False,True,True,True,True,NOW_2024-11-21
+2024-11-27,NOW,"Servicenow, Inc.",S - Sale,6.0,6.0,False,False,True,True,True,True,NOW_2024-11-27
+2024-12-03,NOW,"Servicenow, Inc.",S - Sale,6.0,64.0,False,False,False,False,True,True,NOW_2024-12-03
+2025-02-05,NOW,"Servicenow, Inc.",S - Sale,64.0,6.0,False,False,True,True,False,True,NOW_2025-02-05
+2025-02-11,NOW,"Servicenow, Inc.",S - Sale,6.0,1.0,True,True,True,True,True,True,NOW_2025-02-11
+2025-02-12,NOW,"Servicenow, Inc.",S - Sale,1.0,2.0,False,True,True,True,True,True,NOW_2025-02-12
+2025-02-14,NOW,"Servicenow, Inc.",S - Sale,2.0,7.0,False,False,True,True,True,True,NOW_2025-02-14
+2025-02-21,NOW,"Servicenow, Inc.",S - Sale,7.0,4.0,False,True,True,True,True,True,NOW_2025-02-21
+2025-02-25,NOW,"Servicenow, Inc.",S - Sale,4.0,2.0,False,True,True,True,True,True,NOW_2025-02-25
+2025-02-27,NOW,"Servicenow, Inc.",S - Sale,2.0,4.0,False,True,True,True,True,True,NOW_2025-02-27
+2025-03-03,NOW,"Servicenow, Inc.",S - Sale,4.0,57.0,False,False,False,False,True,True,NOW_2025-03-03
+2025-04-29,NOW,"Servicenow, Inc.",S - Sale,57.0,20.0,False,False,False,True,False,True,NOW_2025-04-29
+2025-05-19,NOW,"Servicenow, Inc.",S - Sale,20.0,8.0,False,False,True,True,True,True,NOW_2025-05-19
+2025-05-27,NOW,"Servicenow, Inc.",S - Sale,8.0,2.0,False,True,True,True,True,True,NOW_2025-05-27
+2025-05-29,NOW,"Servicenow, Inc.",S - Sale,2.0,,False,False,False,False,True,True,NOW_2025-05-29
+2024-11-12,NOW,"Servicenow, Inc.",S - Sale+OE,,2.0,False,True,True,True,False,True,NOW_2024-11-12
+2024-11-14,NOW,"Servicenow, Inc.",S - Sale+OE,2.0,5.0,False,True,True,True,True,True,NOW_2024-11-14
+2024-11-19,NOW,"Servicenow, Inc.",S - Sale+OE,5.0,59.0,False,False,False,False,True,True,NOW_2024-11-19
+2025-01-17,NOW,"Servicenow, Inc.",S - Sale+OE,59.0,25.0,False,False,False,False,False,False,NOW_2025-01-17
+2025-02-11,NOW,"Servicenow, Inc.",S - Sale+OE,25.0,1.0,True,True,True,True,False,True,NOW_2025-02-11
+2025-02-12,NOW,"Servicenow, Inc.",S - Sale+OE,1.0,2.0,False,True,True,True,True,True,NOW_2025-02-12
+2025-02-14,NOW,"Servicenow, Inc.",S - Sale+OE,2.0,5.0,False,True,True,True,True,True,NOW_2025-02-14
+2025-02-19,NOW,"Servicenow, Inc.",S - Sale+OE,5.0,57.0,False,False,False,False,True,True,NOW_2025-02-19
+2025-04-17,NOW,"Servicenow, Inc.",S - Sale+OE,57.0,22.0,False,False,False,False,False,False,NOW_2025-04-17
+2025-05-09,NOW,"Servicenow, Inc.",S - Sale+OE,22.0,5.0,False,True,True,True,False,True,NOW_2025-05-09
+2025-05-14,NOW,"Servicenow, Inc.",S - Sale+OE,5.0,6.0,False,False,True,True,True,True,NOW_2025-05-14
+2025-05-20,NOW,"Servicenow, Inc.",S - Sale+OE,6.0,,False,False,False,False,True,True,NOW_2025-05-20
+2024-11-27,NVDA,Nvidia Corp,S - Sale,,16.0,False,False,False,True,False,True,NVDA_2024-11-27
+2024-12-13,NVDA,Nvidia Corp,S - Sale,16.0,5.0,False,True,True,True,True,True,NVDA_2024-12-13
+2024-12-18,NVDA,Nvidia Corp,S - Sale,5.0,21.0,False,False,False,False,True,True,NVDA_2024-12-18
+2025-01-08,NVDA,Nvidia Corp,S - Sale,21.0,63.0,False,False,False,False,False,False,NVDA_2025-01-08
+2025-03-12,NVDA,Nvidia Corp,S - Sale,63.0,5.0,False,True,True,True,False,True,NVDA_2025-03-12
+2025-03-17,NVDA,Nvidia Corp,S - Sale,5.0,4.0,False,True,True,True,True,True,NVDA_2025-03-17
+2025-03-21,NVDA,Nvidia Corp,S - Sale,4.0,4.0,False,True,True,True,True,True,NVDA_2025-03-21
+2025-03-25,NVDA,Nvidia Corp,S - Sale,4.0,,False,False,False,False,True,True,NVDA_2025-03-25
+2025-02-14,ORCL,Oracle Corp,P - Purchase,,35.0,False,False,False,False,False,False,ORCL_2025-02-14
+2025-03-21,ORCL,Oracle Corp,P - Purchase,35.0,,False,False,False,False,False,False,ORCL_2025-03-21
+2025-04-04,ORCL,Oracle Corp,S - Sale,,32.0,False,False,False,False,False,False,ORCL_2025-04-04
+2025-05-06,ORCL,Oracle Corp,S - Sale,32.0,,False,False,False,False,False,False,ORCL_2025-05-06
+2025-01-24,ORCL,Oracle Corp,S - Sale+OE,,81.0,False,False,False,False,False,False,ORCL_2025-01-24
+2025-04-15,ORCL,Oracle Corp,S - Sale+OE,81.0,21.0,False,False,False,False,False,False,ORCL_2025-04-15
+2025-05-06,ORCL,Oracle Corp,S - Sale+OE,21.0,,False,False,False,False,False,False,ORCL_2025-05-06
+2025-05-12,PLTR,Palantir Technologies Inc.,P - Purchase,,,False,False,False,False,False,False,PLTR_2025-05-12
+2024-11-05,PLTR,Palantir Technologies Inc.,S - Sale,,2.0,False,True,True,True,False,True,PLTR_2024-11-05
+2024-11-07,PLTR,Palantir Technologies Inc.,S - Sale,2.0,5.0,False,True,True,True,True,True,PLTR_2024-11-07
+2024-11-12,PLTR,Palantir Technologies Inc.,S - Sale,5.0,10.0,False,False,True,True,True,True,PLTR_2024-11-12
+2024-11-22,PLTR,Palantir Technologies Inc.,S - Sale,10.0,5.0,False,True,True,True,True,True,PLTR_2024-11-22
+2024-11-27,PLTR,Palantir Technologies Inc.,S - Sale,5.0,7.0,False,False,True,True,True,True,PLTR_2024-11-27
+2024-12-04,PLTR,Palantir Technologies Inc.,S - Sale,7.0,2.0,False,True,True,True,True,True,PLTR_2024-12-04
+2024-12-06,PLTR,Palantir Technologies Inc.,S - Sale,2.0,4.0,False,True,True,True,True,True,PLTR_2024-12-06
+2024-12-10,PLTR,Palantir Technologies Inc.,S - Sale,4.0,27.0,False,False,False,False,True,True,PLTR_2024-12-10
+2025-01-06,PLTR,Palantir Technologies Inc.,S - Sale,27.0,4.0,False,True,True,True,False,True,PLTR_2025-01-06
+2025-01-10,PLTR,Palantir Technologies Inc.,S - Sale,4.0,26.0,False,False,False,False,True,True,PLTR_2025-01-10
+2025-02-05,PLTR,Palantir Technologies Inc.,S - Sale,26.0,1.0,True,True,True,True,False,True,PLTR_2025-02-05
+2025-02-06,PLTR,Palantir Technologies Inc.,S - Sale,1.0,7.0,False,False,True,True,True,True,PLTR_2025-02-06
+2025-02-13,PLTR,Palantir Technologies Inc.,S - Sale,7.0,11.0,False,False,False,True,True,True,PLTR_2025-02-13
+2025-02-24,PLTR,Palantir Technologies Inc.,S - Sale,11.0,9.0,False,False,True,True,True,True,PLTR_2025-02-24
+2025-03-05,PLTR,Palantir Technologies Inc.,S - Sale,9.0,2.0,False,True,True,True,True,True,PLTR_2025-03-05
+2025-03-07,PLTR,Palantir Technologies Inc.,S - Sale,2.0,27.0,False,False,False,False,True,True,PLTR_2025-03-07
+2025-04-03,PLTR,Palantir Technologies Inc.,S - Sale,27.0,4.0,False,True,True,True,False,True,PLTR_2025-04-03
+2025-04-07,PLTR,Palantir Technologies Inc.,S - Sale,4.0,28.0,False,False,False,False,True,True,PLTR_2025-04-07
+2025-05-05,PLTR,Palantir Technologies Inc.,S - Sale,28.0,17.0,False,False,False,True,False,True,PLTR_2025-05-05
+2025-05-22,PLTR,Palantir Technologies Inc.,S - Sale,17.0,,False,False,False,False,True,True,PLTR_2025-05-22
+2024-11-07,PLTR,Palantir Technologies Inc.,S - Sale+OE,,8.0,False,False,True,True,False,True,PLTR_2024-11-07
+2024-11-15,PLTR,Palantir Technologies Inc.,S - Sale+OE,8.0,5.0,False,True,True,True,True,True,PLTR_2024-11-15
+2024-11-20,PLTR,Palantir Technologies Inc.,S - Sale+OE,5.0,2.0,False,True,True,True,True,True,PLTR_2024-11-20
+2024-11-22,PLTR,Palantir Technologies Inc.,S - Sale+OE,2.0,11.0,False,False,False,True,True,True,PLTR_2024-11-22
+2024-12-03,PLTR,Palantir Technologies Inc.,S - Sale+OE,11.0,10.0,False,False,True,True,True,True,PLTR_2024-12-03
+2024-12-13,PLTR,Palantir Technologies Inc.,S - Sale+OE,10.0,3.0,False,True,True,True,True,True,PLTR_2024-12-13
+2024-12-16,PLTR,Palantir Technologies Inc.,S - Sale+OE,3.0,21.0,False,False,False,False,True,True,PLTR_2024-12-16
+2025-01-06,PLTR,Palantir Technologies Inc.,S - Sale+OE,21.0,49.0,False,False,False,False,False,False,PLTR_2025-01-06
+2025-02-24,PLTR,Palantir Technologies Inc.,S - Sale+OE,49.0,18.0,False,False,False,True,False,True,PLTR_2025-02-24
+2025-03-14,PLTR,Palantir Technologies Inc.,S - Sale+OE,18.0,5.0,False,True,True,True,True,True,PLTR_2025-03-14
+2025-03-19,PLTR,Palantir Technologies Inc.,S - Sale+OE,5.0,14.0,False,False,False,True,True,True,PLTR_2025-03-19
+2025-04-02,PLTR,Palantir Technologies Inc.,S - Sale+OE,14.0,50.0,False,False,False,False,True,True,PLTR_2025-04-02
+2025-05-22,PLTR,Palantir Technologies Inc.,S - Sale+OE,50.0,,False,False,False,False,False,False,PLTR_2025-05-22
+2025-02-28,PYPL,"Paypal Holdings, Inc.",S - Sale,,,False,False,False,False,False,False,PYPL_2025-02-28
+2025-04-28,TSLA,"Tesla, Inc.",P - Purchase,,,False,False,False,False,False,False,TSLA_2025-04-28
+2025-02-10,TSLA,"Tesla, Inc.",S - Sale,,,False,False,False,False,False,False,TSLA_2025-02-10
+2024-11-04,TSLA,"Tesla, Inc.",S - Sale+OE,,1.0,True,True,True,True,False,True,TSLA_2024-11-04
+2024-11-05,TSLA,"Tesla, Inc.",S - Sale+OE,1.0,8.0,False,False,True,True,True,True,TSLA_2024-11-05
+2024-11-13,TSLA,"Tesla, Inc.",S - Sale+OE,8.0,6.0,False,False,True,True,True,True,TSLA_2024-11-13
+2024-11-19,TSLA,"Tesla, Inc.",S - Sale+OE,6.0,15.0,False,False,False,True,True,True,TSLA_2024-11-19
+2024-12-04,TSLA,"Tesla, Inc.",S - Sale+OE,15.0,2.0,False,True,True,True,True,True,TSLA_2024-12-04
+2024-12-06,TSLA,"Tesla, Inc.",S - Sale+OE,2.0,3.0,False,True,True,True,True,True,TSLA_2024-12-06
+2024-12-09,TSLA,"Tesla, Inc.",S - Sale+OE,3.0,30.0,False,False,False,False,True,True,TSLA_2024-12-09
+2025-01-08,TSLA,"Tesla, Inc.",S - Sale+OE,30.0,28.0,False,False,False,False,False,False,TSLA_2025-01-08
+2025-02-05,TSLA,"Tesla, Inc.",S - Sale+OE,28.0,28.0,False,False,False,False,False,False,TSLA_2025-02-05
+2025-03-05,TSLA,"Tesla, Inc.",S - Sale+OE,28.0,1.0,True,True,True,True,False,True,TSLA_2025-03-05
+2025-03-06,TSLA,"Tesla, Inc.",S - Sale+OE,1.0,6.0,False,False,True,True,True,True,TSLA_2025-03-06
+2025-03-12,TSLA,"Tesla, Inc.",S - Sale+OE,6.0,28.0,False,False,False,False,True,True,TSLA_2025-03-12
+2025-04-09,TSLA,"Tesla, Inc.",S - Sale+OE,28.0,22.0,False,False,False,False,False,False,TSLA_2025-04-09
+2025-05-01,TSLA,"Tesla, Inc.",S - Sale+OE,22.0,4.0,False,True,True,True,False,True,TSLA_2025-05-01
+2025-05-05,TSLA,"Tesla, Inc.",S - Sale+OE,4.0,3.0,False,True,True,True,True,True,TSLA_2025-05-05
+2025-05-08,TSLA,"Tesla, Inc.",S - Sale+OE,3.0,5.0,False,True,True,True,True,True,TSLA_2025-05-08
+2025-05-13,TSLA,"Tesla, Inc.",S - Sale+OE,5.0,7.0,False,False,True,True,True,True,TSLA_2025-05-13
+2025-05-20,TSLA,"Tesla, Inc.",S - Sale+OE,7.0,9.0,False,False,True,True,True,True,TSLA_2025-05-20
+2025-05-29,TSLA,"Tesla, Inc.",S - Sale+OE,9.0,,False,False,False,False,True,True,TSLA_2025-05-29
+2024-11-08,TXN,Texas Instruments Inc,S - Sale,,89.0,False,False,False,False,False,False,TXN_2024-11-08
+2025-02-05,TXN,Texas Instruments Inc,S - Sale,89.0,14.0,False,False,False,True,False,True,TXN_2025-02-05
+2025-02-19,TXN,Texas Instruments Inc,S - Sale,14.0,,False,False,False,False,True,True,TXN_2025-02-19
+2024-11-08,TXN,Texas Instruments Inc,S - Sale+OE,,5.0,False,True,True,True,False,True,TXN_2024-11-08
+2024-11-13,TXN,Texas Instruments Inc,S - Sale+OE,5.0,13.0,False,False,False,True,True,True,TXN_2024-11-13
+2024-11-26,TXN,Texas Instruments Inc,S - Sale+OE,13.0,86.0,False,False,False,False,True,True,TXN_2024-11-26
+2025-02-20,TXN,Texas Instruments Inc,S - Sale+OE,86.0,5.0,False,True,True,True,False,True,TXN_2025-02-20
+2025-02-25,TXN,Texas Instruments Inc,S - Sale+OE,5.0,2.0,False,True,True,True,True,True,TXN_2025-02-25
+2025-02-27,TXN,Texas Instruments Inc,S - Sale+OE,2.0,4.0,False,True,True,True,True,True,TXN_2025-02-27
+2025-03-03,TXN,Texas Instruments Inc,S - Sale+OE,4.0,,False,False,False,False,True,True,TXN_2025-03-03
+2025-01-29,VZ,Verizon Communications Inc,S - Sale,,1.0,True,True,True,True,False,True,VZ_2025-01-29
+2025-01-30,VZ,Verizon Communications Inc,S - Sale,1.0,1.0,True,True,True,True,True,True,VZ_2025-01-30
+2025-01-31,VZ,Verizon Communications Inc,S - Sale,1.0,5.0,False,True,True,True,True,True,VZ_2025-01-31
+2025-02-05,VZ,Verizon Communications Inc,S - Sale,5.0,1.0,True,True,True,True,True,True,VZ_2025-02-05
+2025-02-06,VZ,Verizon Communications Inc,S - Sale,1.0,21.0,False,False,False,False,True,True,VZ_2025-02-06
+2025-02-27,VZ,Verizon Communications Inc,S - Sale,21.0,56.0,False,False,False,False,False,False,VZ_2025-02-27
+2025-04-24,VZ,Verizon Communications Inc,S - Sale,56.0,7.0,False,False,True,True,False,True,VZ_2025-04-24
+2025-05-01,VZ,Verizon Communications Inc,S - Sale,7.0,7.0,False,False,True,True,True,True,VZ_2025-05-01
+2025-05-08,VZ,Verizon Communications Inc,S - Sale,7.0,,False,False,False,False,True,True,VZ_2025-05-08
+2025-04-25,VZ,Verizon Communications Inc,S - Sale+OE,,14.0,False,False,False,True,False,True,VZ_2025-04-25
+2025-05-09,VZ,Verizon Communications Inc,S - Sale+OE,14.0,,False,False,False,False,True,True,VZ_2025-05-09

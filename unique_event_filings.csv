@@ -1,0 +1,493 @@
+Filing Date,Ticker,Company Name,Trade Type
+19.11.2024,AAPL,Apple Inc.,S - Sale
+18.12.2024,AAPL,Apple Inc.,S - Sale
+04.02.2025,AAPL,Apple Inc.,S - Sale+OE
+03.04.2025,AAPL,Apple Inc.,S - Sale+OE
+25.04.2025,AAPL,Apple Inc.,S - Sale
+14.05.2025,AAPL,Apple Inc.,S - Sale
+10.12.2024,ADBE,Adobe Inc.,S - Sale
+28.01.2025,ADBE,Adobe Inc.,S - Sale+OE
+30.01.2025,ADBE,Adobe Inc.,P - Purchase
+21.03.2025,ADBE,Adobe Inc.,P - Purchase
+06.05.2025,ADBE,Adobe Inc.,S - Sale
+04.11.2024,ADI,Analog Devices Inc,S - Sale
+05.11.2024,ADI,Analog Devices Inc,S - Sale+OE
+12.12.2024,ADI,Analog Devices Inc,S - Sale+OE
+03.01.2025,ADI,Analog Devices Inc,S - Sale+OE
+27.02.2025,ADI,Analog Devices Inc,S - Sale+OE
+06.03.2025,ADI,Analog Devices Inc,S - Sale
+06.03.2025,ADI,Analog Devices Inc,S - Sale+OE
+12.03.2025,ADI,Analog Devices Inc,S - Sale
+13.03.2025,ADI,Analog Devices Inc,S - Sale
+20.03.2025,ADI,Analog Devices Inc,S - Sale
+05.03.2025,ADI,Analog Devices Inc,S - Sale+OE
+26.03.2025,ADI,Analog Devices Inc,S - Sale
+02.04.2025,ADI,Analog Devices Inc,S - Sale+OE
+17.04.2025,ADI,Analog Devices Inc,S - Sale
+02.05.2025,ADI,Analog Devices Inc,S - Sale+OE
+08.05.2025,ADI,Analog Devices Inc,S - Sale
+08.11.2024,ADP,Automatic Data Processing Inc,S - Sale+OE
+03.01.2025,ADP,Automatic Data Processing Inc,S - Sale
+06.01.2025,ADP,Automatic Data Processing Inc,S - Sale+OE
+06.01.2025,ADP,Automatic Data Processing Inc,S - Sale
+07.01.2025,ADP,Automatic Data Processing Inc,S - Sale+OE
+08.01.2025,ADP,Automatic Data Processing Inc,S - Sale+OE
+14.01.2025,ADP,Automatic Data Processing Inc,S - Sale+OE
+15.01.2025,ADP,Automatic Data Processing Inc,S - Sale+OE
+04.02.2025,ADP,Automatic Data Processing Inc,S - Sale
+04.02.2025,ADP,Automatic Data Processing Inc,S - Sale+OE
+12.02.2025,ADP,Automatic Data Processing Inc,S - Sale+OE
+12.03.2025,ADP,Automatic Data Processing Inc,S - Sale+OE
+02.04.2025,ADP,Automatic Data Processing Inc,S - Sale
+14.04.2025,ADP,Automatic Data Processing Inc,S - Sale+OE
+14.05.2025,ADP,Automatic Data Processing Inc,S - Sale+OE
+25.02.2025,AMAT,Applied Materials Inc /de,S - Sale
+03.04.2025,AMAT,Applied Materials Inc /De,S - Sale
+07.04.2025,AMAT,Applied Materials Inc /De,P - Purchase
+05.11.2024,AMZN,Amazon Com Inc,S - Sale
+06.11.2024,AMZN,Amazon Com Inc,S - Sale
+08.11.2024,AMZN,Amazon Com Inc,S - Sale
+12.11.2024,AMZN,Amazon Com Inc,S - Sale
+14.11.2024,AMZN,Amazon Com Inc,S - Sale
+19.11.2024,AMZN,Amazon Com Inc,S - Sale+OE
+25.11.2024,AMZN,Amazon Com Inc,S - Sale
+25.11.2024,AMZN,Amazon Com Inc,S - Sale+OE
+04.12.2024,AMZN,Amazon Com Inc,S - Sale
+06.12.2024,AMZN,Amazon Com Inc,S - Sale
+11.12.2024,AMZN,Amazon Com Inc,S - Sale
+14.02.2025,AMZN,Amazon Com Inc,S - Sale
+19.02.2025,AMZN,Amazon Com Inc,S - Sale+OE
+25.02.2025,AMZN,Amazon Com Inc,S - Sale
+25.02.2025,AMZN,Amazon Com Inc,S - Sale+OE
+05.03.2025,AMZN,Amazon Com Inc,S - Sale
+03.04.2025,AMZN,Amazon Com Inc,S - Sale
+05.05.2025,AMZN,Amazon Com Inc,S - Sale
+14.05.2025,AMZN,Amazon Com Inc,S - Sale
+19.05.2025,AMZN,Amazon Com Inc,S - Sale+OE
+23.05.2025,AMZN,Amazon Com Inc,S - Sale+OE
+05.11.2024,ANET,"Arista Networks, Inc.",S - Sale+OE
+05.11.2024,ANET,"Arista Networks, Inc.",S - Sale
+06.11.2024,ANET,"Arista Networks, Inc.",S - Sale+OE
+08.11.2024,ANET,"Arista Networks, Inc.",S - Sale
+25.11.2024,ANET,"Arista Networks, Inc.",S - Sale
+04.12.2024,ANET,"Arista Networks, Inc.",S - Sale
+10.12.2024,ANET,"Arista Networks, Inc.",S - Sale+OE
+11.12.2024,ANET,"Arista Networks, Inc.",S - Sale
+06.01.2025,ANET,"Arista Networks, Inc.",S - Sale
+08.01.2025,ANET,"Arista Networks, Inc.",S - Sale+OE
+23.01.2025,ANET,"Arista Networks, Inc.",S - Sale
+05.02.2025,ANET,"Arista Networks, Inc.",S - Sale
+10.02.2025,ANET,"Arista Networks, Inc.",S - Sale+OE
+18.02.2025,ANET,"Arista Networks, Inc.",S - Sale
+21.02.2025,ANET,"Arista Networks, Inc.",S - Sale
+25.02.2025,ANET,"Arista Networks, Inc.",S - Sale
+26.02.2025,ANET,"Arista Networks, Inc.",S - Sale
+28.02.2025,ANET,"Arista Networks, Inc.",S - Sale
+05.03.2025,ANET,"Arista Networks, Inc.",S - Sale
+10.03.2025,ANET,"Arista Networks, Inc.",S - Sale+OE
+03.04.2025,ANET,"Arista Networks, Inc.",S - Sale
+09.04.2025,ANET,"Arista Networks, Inc.",S - Sale+OE
+09.04.2025,ANET,"Arista Networks, Inc.",S - Sale
+24.04.2025,ANET,"Arista Networks, Inc.",S - Sale
+05.05.2025,ANET,"Arista Networks, Inc.",S - Sale
+08.05.2025,ANET,"Arista Networks, Inc.",S - Sale+OE
+23.05.2025,ANET,"Arista Networks, Inc.",S - Sale
+14.11.2024,APP,Applovin Corp,S - Sale
+22.11.2024,APP,Applovin Corp,S - Sale
+22.11.2024,APP,Applovin Corp,S - Sale+OE
+25.11.2024,APP,Applovin Corp,S - Sale+OE
+26.11.2024,APP,Applovin Corp,S - Sale
+29.11.2024,APP,Applovin Corp,S - Sale
+02.12.2024,APP,Applovin Corp,S - Sale
+03.12.2024,APP,Applovin Corp,S - Sale
+05.12.2024,APP,Applovin Corp,S - Sale
+10.12.2024,APP,Applovin Corp,S - Sale
+10.12.2024,APP,Applovin Corp,S - Sale+OE
+11.12.2024,APP,Applovin Corp,S - Sale
+12.12.2024,APP,Applovin Corp,S - Sale+OE
+12.12.2024,APP,Applovin Corp,S - Sale
+23.12.2024,APP,Applovin Corp,S - Sale
+24.02.2025,APP,Applovin Corp,S - Sale
+04.03.2025,APP,Applovin Corp,S - Sale+OE
+12.03.2025,APP,Applovin Corp,S - Sale
+14.05.2025,APP,Applovin Corp,S - Sale+OE
+15.05.2025,APP,Applovin Corp,S - Sale
+15.05.2025,APP,Applovin Corp,S - Sale+OE
+21.05.2025,APP,Applovin Corp,S - Sale
+22.05.2025,APP,Applovin Corp,S - Sale+OE
+22.05.2025,APP,Applovin Corp,S - Sale
+28.05.2025,APP,Applovin Corp,S - Sale
+19.12.2024,AVGO,Broadcom Inc.,S - Sale
+26.12.2024,AVGO,Broadcom Inc.,S - Sale
+27.12.2024,AVGO,Broadcom Inc.,S - Sale
+06.01.2025,AVGO,Broadcom Inc.,S - Sale
+08.01.2025,AVGO,Broadcom Inc.,S - Sale
+10.01.2025,AVGO,Broadcom Inc.,S - Sale
+26.03.2025,AVGO,Broadcom Inc.,S - Sale
+28.03.2025,AVGO,Broadcom Inc.,S - Sale
+15.04.2025,AVGO,Broadcom Inc.,S - Sale
+16.04.2025,AVGO,Broadcom Inc.,S - Sale
+16.05.2025,AVGO,Broadcom Inc.,S - Sale
+04.11.2024,CRM,"Salesforce, Inc.",S - Sale
+06.11.2024,CRM,"Salesforce, Inc.",S - Sale+OE
+22.11.2024,CRM,"Salesforce, Inc.",S - Sale+OE
+25.11.2024,CRM,"Salesforce, Inc.",S - Sale+OE
+26.11.2024,CRM,"Salesforce, Inc.",S - Sale
+20.12.2024,CRM,"Salesforce, Inc.",S - Sale+OE
+20.12.2024,CRM,"Salesforce, Inc.",S - Sale
+23.12.2024,CRM,"Salesforce, Inc.",S - Sale+OE
+26.12.2024,CRM,"Salesforce, Inc.",S - Sale+OE
+26.12.2024,CRM,"Salesforce, Inc.",S - Sale
+27.12.2024,CRM,"Salesforce, Inc.",S - Sale
+03.01.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+16.01.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+23.01.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+04.02.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+04.02.2025,CRM,"Salesforce, Inc.",S - Sale
+19.02.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+24.02.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+25.02.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+26.02.2025,CRM,"Salesforce, Inc.",S - Sale
+03.03.2025,CRM,"Salesforce, Inc.",P - Purchase
+04.03.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+18.03.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+27.03.2025,CRM,"Salesforce, Inc.",S - Sale
+25.03.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+04.04.2025,CRM,"Salesforce, Inc.",P - Purchase
+17.04.2025,CRM,"Salesforce, Inc.",S - Sale
+24.04.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+05.05.2025,CRM,"Salesforce, Inc.",S - Sale
+15.05.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+23.05.2025,CRM,"Salesforce, Inc.",S - Sale+OE
+28.05.2025,CRM,"Salesforce, Inc.",S - Sale
+08.11.2024,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+15.11.2024,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+02.12.2024,CRWD,"Crowdstrike Holdings, Inc.",S - Sale+OE
+04.12.2024,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+06.12.2024,CRWD,"Crowdstrike Holdings, Inc.",S - Sale+OE
+16.12.2024,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+18.12.2024,CRWD,"Crowdstrike Holdings, Inc.",S - Sale+OE
+26.12.2024,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+03.01.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+16.01.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+06.02.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+11.02.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+18.02.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+19.02.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+04.03.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+17.03.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+25.03.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+02.04.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+08.04.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+10.04.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale+OE
+16.04.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+22.04.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+28.04.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+02.05.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+06.05.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+28.05.2025,CRWD,"Crowdstrike Holdings, Inc.",S - Sale
+19.11.2024,CSCO,"Cisco Systems, Inc.",S - Sale
+21.11.2024,CSCO,"Cisco Systems, Inc.",S - Sale
+02.12.2024,CSCO,"Cisco Systems, Inc.",S - Sale
+06.12.2024,CSCO,"Cisco Systems, Inc.",S - Sale
+12.12.2024,CSCO,"Cisco Systems, Inc.",S - Sale
+18.02.2025,CSCO,"Cisco Systems, Inc.",S - Sale
+24.02.2025,CSCO,"Cisco Systems, Inc.",S - Sale
+27.02.2025,CSCO,"Cisco Systems, Inc.",S - Sale
+12.03.2025,CSCO,"Cisco Systems, Inc.",S - Sale
+20.05.2025,CSCO,"Cisco Systems, Inc.",S - Sale
+29.05.2025,CSCO,"Cisco Systems, Inc.",S - Sale
+19.11.2024,DELL,Dell Technologies Inc.,S - Sale+OE
+26.11.2024,DELL,Dell Technologies Inc.,S - Sale
+04.12.2024,DELL,Dell Technologies Inc.,S - Sale
+09.12.2024,DELL,Dell Technologies Inc.,S - Sale+OE
+09.12.2024,DELL,Dell Technologies Inc.,S - Sale
+11.12.2024,DELL,Dell Technologies Inc.,S - Sale
+17.12.2024,DELL,Dell Technologies Inc.,S - Sale+OE
+08.01.2025,DELL,Dell Technologies Inc.,S - Sale+OE
+08.01.2025,DELL,Dell Technologies Inc.,S - Sale
+24.01.2025,DELL,Dell Technologies Inc.,S - Sale+OE
+20.02.2025,DELL,Dell Technologies Inc.,S - Sale+OE
+01.04.2025,DELL,Dell Technologies Inc.,S - Sale
+16.05.2025,DELL,Dell Technologies Inc.,S - Sale
+06.11.2024,EBAY,Ebay Inc,S - Sale
+19.11.2024,EBAY,Ebay Inc,S - Sale+OE
+27.11.2024,EBAY,Ebay Inc,S - Sale
+05.12.2024,EBAY,Ebay Inc,S - Sale
+17.12.2024,EBAY,Ebay Inc,S - Sale+OE
+06.01.2025,EBAY,Ebay Inc,S - Sale
+17.01.2025,EBAY,Ebay Inc,S - Sale+OE
+05.02.2025,EBAY,Ebay Inc,S - Sale
+19.02.2025,EBAY,Ebay Inc,S - Sale+OE
+05.03.2025,EBAY,Ebay Inc,S - Sale
+18.03.2025,EBAY,Ebay Inc,S - Sale+OE
+20.03.2025,EBAY,Ebay Inc,S - Sale
+03.04.2025,EBAY,Ebay Inc,S - Sale
+07.04.2025,EBAY,Ebay Inc,S - Sale
+17.04.2025,EBAY,Ebay Inc,S - Sale+OE
+05.05.2025,EBAY,Ebay Inc,S - Sale+OE
+06.05.2025,EBAY,Ebay Inc,S - Sale
+08.05.2025,EBAY,Ebay Inc,S - Sale
+13.05.2025,EBAY,Ebay Inc,S - Sale+OE
+22.05.2025,EBAY,Ebay Inc,S - Sale
+23.05.2025,EBAY,Ebay Inc,S - Sale+OE
+01.11.2024,GOOGL,Alphabet Inc.,S - Sale
+04.11.2024,GOOGL,Alphabet Inc.,S - Sale
+06.11.2024,GOOGL,Alphabet Inc.,S - Sale
+07.11.2024,GOOGL,Alphabet Inc.,S - Sale
+12.11.2024,GOOGL,Alphabet Inc.,S - Sale
+18.11.2024,GOOGL,Alphabet Inc.,S - Sale
+21.11.2024,GOOGL,Alphabet Inc.,S - Sale
+02.12.2024,GOOGL,Alphabet Inc.,S - Sale
+10.12.2024,GOOGL,Alphabet Inc.,S - Sale
+13.12.2024,GOOGL,Alphabet Inc.,S - Sale
+17.12.2024,GOOGL,Alphabet Inc.,S - Sale
+02.01.2025,GOOGL,Alphabet Inc.,S - Sale
+03.01.2025,GOOGL,Alphabet Inc.,S - Sale
+13.01.2025,GOOGL,Alphabet Inc.,S - Sale
+15.01.2025,GOOGL,Alphabet Inc.,S - Sale
+30.01.2025,GOOGL,Alphabet Inc.,S - Sale
+31.01.2025,GOOGL,Alphabet Inc.,S - Sale
+03.02.2025,GOOGL,Alphabet Inc.,S - Sale
+19.02.2025,GOOGL,Alphabet Inc.,S - Sale
+20.02.2025,GOOGL,Alphabet Inc.,S - Sale
+21.02.2025,GOOGL,Alphabet Inc.,S - Sale
+28.02.2025,GOOGL,Alphabet Inc.,S - Sale
+03.03.2025,GOOGL,Alphabet Inc.,S - Sale
+13.03.2025,GOOGL,Alphabet Inc.,S - Sale
+27.03.2025,GOOGL,Alphabet Inc.,S - Sale
+31.03.2025,GOOGL,Alphabet Inc.,S - Sale
+01.04.2025,GOOGL,Alphabet Inc.,S - Sale
+04.04.2025,GOOGL,Alphabet Inc.,S - Sale
+14.04.2025,GOOGL,Alphabet Inc.,S - Sale
+18.04.2025,GOOGL,Alphabet Inc.,S - Sale
+01.05.2025,GOOGL,Alphabet Inc.,S - Sale
+09.05.2025,GOOGL,Alphabet Inc.,S - Sale
+15.05.2025,GOOGL,Alphabet Inc.,S - Sale
+23.05.2025,GOOGL,Alphabet Inc.,S - Sale
+08.11.2024,IBM,International Business Machines Corp,S - Sale
+13.11.2024,IBM,International Business Machines Corp,P - Purchase
+28.02.2025,IBM,International Business Machines Corp,P - Purchase
+03.03.2025,IBM,International Business Machines Corp,S - Sale
+06.11.2024,INTC,Intel Corp,P - Purchase
+08.11.2024,INTC,Intel Corp,S - Sale
+04.11.2024,LRCX,Lam Research Corp,S - Sale
+21.02.2025,LRCX,Lam Research Corp,S - Sale+OE
+01.11.2024,META,"Meta Platforms, Inc.",S - Sale+OE
+05.11.2024,META,"Meta Platforms, Inc.",S - Sale
+07.11.2024,META,"Meta Platforms, Inc.",S - Sale
+19.11.2024,META,"Meta Platforms, Inc.",S - Sale+OE
+21.11.2024,META,"Meta Platforms, Inc.",S - Sale
+26.11.2024,META,"Meta Platforms, Inc.",S - Sale
+27.11.2024,META,"Meta Platforms, Inc.",S - Sale
+04.12.2024,META,"Meta Platforms, Inc.",S - Sale
+04.12.2024,META,"Meta Platforms, Inc.",S - Sale+OE
+05.12.2024,META,"Meta Platforms, Inc.",S - Sale
+09.12.2024,META,"Meta Platforms, Inc.",S - Sale+OE
+11.12.2024,META,"Meta Platforms, Inc.",S - Sale
+11.12.2024,META,"Meta Platforms, Inc.",S - Sale+OE
+12.12.2024,META,"Meta Platforms, Inc.",S - Sale
+16.12.2024,META,"Meta Platforms, Inc.",S - Sale+OE
+18.12.2024,META,"Meta Platforms, Inc.",S - Sale
+18.12.2024,META,"Meta Platforms, Inc.",S - Sale+OE
+19.12.2024,META,"Meta Platforms, Inc.",S - Sale
+23.12.2024,META,"Meta Platforms, Inc.",S - Sale+OE
+26.12.2024,META,"Meta Platforms, Inc.",S - Sale
+26.12.2024,META,"Meta Platforms, Inc.",S - Sale+OE
+30.12.2024,META,"Meta Platforms, Inc.",S - Sale+OE
+02.01.2025,META,"Meta Platforms, Inc.",S - Sale
+06.01.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+08.01.2025,META,"Meta Platforms, Inc.",S - Sale
+08.01.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+10.01.2025,META,"Meta Platforms, Inc.",S - Sale
+13.01.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+15.01.2025,META,"Meta Platforms, Inc.",S - Sale
+15.01.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+16.01.2025,META,"Meta Platforms, Inc.",S - Sale
+21.01.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+22.01.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+23.01.2025,META,"Meta Platforms, Inc.",S - Sale
+27.01.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+29.01.2025,META,"Meta Platforms, Inc.",S - Sale
+29.01.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+30.01.2025,META,"Meta Platforms, Inc.",S - Sale
+03.02.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+05.02.2025,META,"Meta Platforms, Inc.",S - Sale
+05.02.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+06.02.2025,META,"Meta Platforms, Inc.",S - Sale
+10.02.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+12.02.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+13.02.2025,META,"Meta Platforms, Inc.",S - Sale
+18.02.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+19.02.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+24.02.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+26.02.2025,META,"Meta Platforms, Inc.",S - Sale
+27.02.2025,META,"Meta Platforms, Inc.",S - Sale
+28.02.2025,META,"Meta Platforms, Inc.",S - Sale
+03.03.2025,META,"Meta Platforms, Inc.",S - Sale
+04.03.2025,META,"Meta Platforms, Inc.",S - Sale
+05.03.2025,META,"Meta Platforms, Inc.",S - Sale
+06.03.2025,META,"Meta Platforms, Inc.",S - Sale
+12.03.2025,META,"Meta Platforms, Inc.",S - Sale
+13.03.2025,META,"Meta Platforms, Inc.",S - Sale
+19.03.2025,META,"Meta Platforms, Inc.",S - Sale
+20.03.2025,META,"Meta Platforms, Inc.",S - Sale
+27.03.2025,META,"Meta Platforms, Inc.",S - Sale
+26.03.2025,META,"Meta Platforms, Inc.",S - Sale
+02.04.2025,META,"Meta Platforms, Inc.",S - Sale
+03.04.2025,META,"Meta Platforms, Inc.",S - Sale
+09.04.2025,META,"Meta Platforms, Inc.",S - Sale
+10.04.2025,META,"Meta Platforms, Inc.",S - Sale
+16.04.2025,META,"Meta Platforms, Inc.",S - Sale
+17.04.2025,META,"Meta Platforms, Inc.",S - Sale
+23.04.2025,META,"Meta Platforms, Inc.",S - Sale
+24.04.2025,META,"Meta Platforms, Inc.",S - Sale
+30.04.2025,META,"Meta Platforms, Inc.",S - Sale
+01.05.2025,META,"Meta Platforms, Inc.",S - Sale
+06.05.2025,META,"Meta Platforms, Inc.",S - Sale
+07.05.2025,META,"Meta Platforms, Inc.",S - Sale
+08.05.2025,META,"Meta Platforms, Inc.",S - Sale
+14.05.2025,META,"Meta Platforms, Inc.",S - Sale
+15.05.2025,META,"Meta Platforms, Inc.",S - Sale
+19.05.2025,META,"Meta Platforms, Inc.",S - Sale+OE
+21.05.2025,META,"Meta Platforms, Inc.",S - Sale
+22.05.2025,META,"Meta Platforms, Inc.",S - Sale
+29.05.2025,META,"Meta Platforms, Inc.",S - Sale
+12.11.2024,MSFT,Microsoft Corp,S - Sale
+25.11.2024,MSFT,Microsoft Corp,S - Sale
+02.12.2024,MSFT,Microsoft Corp,S - Sale
+05.12.2024,MSFT,Microsoft Corp,S - Sale
+10.12.2024,MSFT,Microsoft Corp,S - Sale
+06.05.2025,MSFT,Microsoft Corp,S - Sale
+16.05.2025,MSFT,Microsoft Corp,S - Sale
+20.05.2025,MSFT,Microsoft Corp,S - Sale
+22.05.2025,MSFT,Microsoft Corp,S - Sale
+26.12.2024,MU,Micron Technology Inc,S - Sale
+10.01.2025,MU,Micron Technology Inc,S - Sale
+19.02.2025,MU,Micron Technology Inc,S - Sale
+05.03.2025,MU,Micron Technology Inc,S - Sale
+18.03.2025,MU,Micron Technology Inc,S - Sale
+27.03.2025,MU,Micron Technology Inc,S - Sale
+06.05.2025,MU,Micron Technology Inc,S - Sale
+06.11.2024,NOW,"Servicenow, Inc.",S - Sale
+12.11.2024,NOW,"Servicenow, Inc.",S - Sale
+12.11.2024,NOW,"Servicenow, Inc.",S - Sale+OE
+14.11.2024,NOW,"Servicenow, Inc.",S - Sale+OE
+18.11.2024,NOW,"Servicenow, Inc.",S - Sale
+19.11.2024,NOW,"Servicenow, Inc.",S - Sale+OE
+21.11.2024,NOW,"Servicenow, Inc.",S - Sale
+27.11.2024,NOW,"Servicenow, Inc.",S - Sale
+03.12.2024,NOW,"Servicenow, Inc.",S - Sale
+17.01.2025,NOW,"Servicenow, Inc.",S - Sale+OE
+05.02.2025,NOW,"Servicenow, Inc.",S - Sale
+11.02.2025,NOW,"Servicenow, Inc.",S - Sale+OE
+11.02.2025,NOW,"Servicenow, Inc.",S - Sale
+12.02.2025,NOW,"Servicenow, Inc.",S - Sale+OE
+12.02.2025,NOW,"Servicenow, Inc.",S - Sale
+14.02.2025,NOW,"Servicenow, Inc.",S - Sale
+14.02.2025,NOW,"Servicenow, Inc.",S - Sale+OE
+19.02.2025,NOW,"Servicenow, Inc.",S - Sale+OE
+21.02.2025,NOW,"Servicenow, Inc.",S - Sale
+25.02.2025,NOW,"Servicenow, Inc.",S - Sale
+27.02.2025,NOW,"Servicenow, Inc.",S - Sale
+03.03.2025,NOW,"Servicenow, Inc.",S - Sale
+17.04.2025,NOW,"Servicenow, Inc.",S - Sale+OE
+29.04.2025,NOW,"Servicenow, Inc.",S - Sale
+09.05.2025,NOW,"Servicenow, Inc.",S - Sale+OE
+14.05.2025,NOW,"Servicenow, Inc.",S - Sale+OE
+19.05.2025,NOW,"Servicenow, Inc.",S - Sale
+20.05.2025,NOW,"Servicenow, Inc.",S - Sale+OE
+27.05.2025,NOW,"Servicenow, Inc.",S - Sale
+29.05.2025,NOW,"Servicenow, Inc.",S - Sale
+27.11.2024,NVDA,Nvidia Corp,S - Sale
+13.12.2024,NVDA,Nvidia Corp,S - Sale
+18.12.2024,NVDA,Nvidia Corp,S - Sale
+08.01.2025,NVDA,Nvidia Corp,S - Sale
+12.03.2025,NVDA,Nvidia Corp,S - Sale
+17.03.2025,NVDA,Nvidia Corp,S - Sale
+21.03.2025,NVDA,Nvidia Corp,S - Sale
+25.03.2025,NVDA,Nvidia Corp,S - Sale
+24.01.2025,ORCL,Oracle Corp,S - Sale+OE
+14.02.2025,ORCL,Oracle Corp,P - Purchase
+21.03.2025,ORCL,Oracle Corp,P - Purchase
+04.04.2025,ORCL,Oracle Corp,S - Sale
+15.04.2025,ORCL,Oracle Corp,S - Sale+OE
+06.05.2025,ORCL,Oracle Corp,S - Sale+OE
+06.05.2025,ORCL,Oracle Corp,S - Sale
+05.11.2024,PLTR,Palantir Technologies Inc.,S - Sale
+07.11.2024,PLTR,Palantir Technologies Inc.,S - Sale+OE
+07.11.2024,PLTR,Palantir Technologies Inc.,S - Sale
+12.11.2024,PLTR,Palantir Technologies Inc.,S - Sale
+15.11.2024,PLTR,Palantir Technologies Inc.,S - Sale+OE
+20.11.2024,PLTR,Palantir Technologies Inc.,S - Sale+OE
+22.11.2024,PLTR,Palantir Technologies Inc.,S - Sale+OE
+22.11.2024,PLTR,Palantir Technologies Inc.,S - Sale
+27.11.2024,PLTR,Palantir Technologies Inc.,S - Sale
+03.12.2024,PLTR,Palantir Technologies Inc.,S - Sale+OE
+04.12.2024,PLTR,Palantir Technologies Inc.,S - Sale
+06.12.2024,PLTR,Palantir Technologies Inc.,S - Sale
+10.12.2024,PLTR,Palantir Technologies Inc.,S - Sale
+13.12.2024,PLTR,Palantir Technologies Inc.,S - Sale+OE
+16.12.2024,PLTR,Palantir Technologies Inc.,S - Sale+OE
+06.01.2025,PLTR,Palantir Technologies Inc.,S - Sale+OE
+06.01.2025,PLTR,Palantir Technologies Inc.,S - Sale
+10.01.2025,PLTR,Palantir Technologies Inc.,S - Sale
+05.02.2025,PLTR,Palantir Technologies Inc.,S - Sale
+06.02.2025,PLTR,Palantir Technologies Inc.,S - Sale
+13.02.2025,PLTR,Palantir Technologies Inc.,S - Sale
+24.02.2025,PLTR,Palantir Technologies Inc.,S - Sale+OE
+24.02.2025,PLTR,Palantir Technologies Inc.,S - Sale
+05.03.2025,PLTR,Palantir Technologies Inc.,S - Sale
+07.03.2025,PLTR,Palantir Technologies Inc.,S - Sale
+14.03.2025,PLTR,Palantir Technologies Inc.,S - Sale+OE
+19.03.2025,PLTR,Palantir Technologies Inc.,S - Sale+OE
+02.04.2025,PLTR,Palantir Technologies Inc.,S - Sale+OE
+03.04.2025,PLTR,Palantir Technologies Inc.,S - Sale
+07.04.2025,PLTR,Palantir Technologies Inc.,S - Sale
+05.05.2025,PLTR,Palantir Technologies Inc.,S - Sale
+12.05.2025,PLTR,Palantir Technologies Inc.,P - Purchase
+22.05.2025,PLTR,Palantir Technologies Inc.,S - Sale+OE
+22.05.2025,PLTR,Palantir Technologies Inc.,S - Sale
+28.02.2025,PYPL,"Paypal Holdings, Inc.",S - Sale
+04.11.2024,TSLA,"Tesla, Inc.",S - Sale+OE
+05.11.2024,TSLA,"Tesla, Inc.",S - Sale+OE
+13.11.2024,TSLA,"Tesla, Inc.",S - Sale+OE
+19.11.2024,TSLA,"Tesla, Inc.",S - Sale+OE
+04.12.2024,TSLA,"Tesla, Inc.",S - Sale+OE
+06.12.2024,TSLA,"Tesla, Inc.",S - Sale+OE
+09.12.2024,TSLA,"Tesla, Inc.",S - Sale+OE
+08.01.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+05.02.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+10.02.2025,TSLA,"Tesla, Inc.",S - Sale
+05.03.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+06.03.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+12.03.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+09.04.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+28.04.2025,TSLA,"Tesla, Inc.",P - Purchase
+01.05.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+05.05.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+08.05.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+13.05.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+20.05.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+29.05.2025,TSLA,"Tesla, Inc.",S - Sale+OE
+08.11.2024,TXN,Texas Instruments Inc,S - Sale+OE
+08.11.2024,TXN,Texas Instruments Inc,S - Sale
+13.11.2024,TXN,Texas Instruments Inc,S - Sale+OE
+26.11.2024,TXN,Texas Instruments Inc,S - Sale+OE
+05.02.2025,TXN,Texas Instruments Inc,S - Sale
+19.02.2025,TXN,Texas Instruments Inc,S - Sale
+20.02.2025,TXN,Texas Instruments Inc,S - Sale+OE
+25.02.2025,TXN,Texas Instruments Inc,S - Sale+OE
+27.02.2025,TXN,Texas Instruments Inc,S - Sale+OE
+03.03.2025,TXN,Texas Instruments Inc,S - Sale+OE
+29.01.2025,VZ,Verizon Communications Inc,S - Sale
+30.01.2025,VZ,Verizon Communications Inc,S - Sale
+31.01.2025,VZ,Verizon Communications Inc,S - Sale
+05.02.2025,VZ,Verizon Communications Inc,S - Sale
+06.02.2025,VZ,Verizon Communications Inc,S - Sale
+27.02.2025,VZ,Verizon Communications Inc,S - Sale
+24.04.2025,VZ,Verizon Communications Inc,S - Sale
+25.04.2025,VZ,Verizon Communications Inc,S - Sale+OE
+01.05.2025,VZ,Verizon Communications Inc,S - Sale
+08.05.2025,VZ,Verizon Communications Inc,S - Sale
+09.05.2025,VZ,Verizon Communications Inc,S - Sale+OE
